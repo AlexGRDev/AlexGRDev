@@ -20,11 +20,11 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <td style="width: 50%; text-align: center;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%; height: auto;"/>
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=8&theme=algolia&exclude_lang=HTML,CSS"/>
+      <td style="width: 50%; text-align: center;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=8&theme=algolia&exclude_lang=HTML,CSS" style="max-width: 100%; height: auto;"/>
       </td>
     </tr>
   </table>
@@ -33,7 +33,7 @@
 ### 🧑‍💻 Contribuciones en GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia" alt="Contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia" alt="Contribuciones" style="max-width: 100%; height: auto;" />
 </p>
 
 ### 📬 Contáctame
