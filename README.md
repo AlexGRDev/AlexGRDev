@@ -38,14 +38,9 @@
 
 ### 🖥️ Lenguajes de Programación
 
-Basado en mis contribuciones más recientes en GitHub, estos son los lenguajes que más uso:
+Los lenguajes que más uso en mis repositorios, basados en mis contribuciones recientes, son los siguientes:
 
-- Python
-- C
-- Bash
-- SQL
-- MySQL
-- Firebase
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia)
 
 ### 📬 Contáctame
 
