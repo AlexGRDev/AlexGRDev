@@ -36,6 +36,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia" alt="Contribuciones" style="max-width: 100%; height: auto;" />
 </p>
 
+### 🖥️ Lenguajes de Programación
+
+Basado en mis contribuciones más recientes en GitHub, estos son los lenguajes que más uso:
+
+- Python
+- C
+- Bash
+- SQL
+- MySQL
+- Firebase
+
 ### 📬 Contáctame
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
