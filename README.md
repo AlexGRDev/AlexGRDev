@@ -24,7 +24,7 @@
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%; height: auto;"/>
       </td>
       <td style="width: 50%; text-align: center;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=8&theme=algolia&exclude_lang=HTML,CSS" style="max-width: 100%; height: auto;"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=8&theme=algolia" style="max-width: 100%; height: auto;"/>
       </td>
     </tr>
   </table>
