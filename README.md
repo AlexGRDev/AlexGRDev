@@ -1,28 +1,55 @@
-# Bienvenido a mi perfil de GitHub! 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://github.com/AlexGRDev">AlexGRDev</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 
-Soy un desarrollador con experiencia en sistemas microinformáticos, administración de redes y ciberseguridad. Actualmente estoy expandiendo mis habilidades en desarrollo de software y ciberseguridad, trabajando con tecnologías como Python, Bash, C, SQL y herramientas de seguridad.
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![GitHub followers](https://img.shields.io/github/followers/AlexGRDev?style=social)](https://github.com/AlexGRDev)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## 🚀 Proyectos destacados
+## Sobre mi
 
-### 💻 Desarrollo de Software
-- **[Proyecto 1](https://github.com/tu_usuario/proyecto1)**: Descripción breve del proyecto.
-- **[Proyecto 2](https://github.com/tu_usuario/proyecto2)**: Descripción breve del proyecto.
+- 🖥️ **Desarrollador de Software** | **Especialista en Ciberseguridad**
+- 📲 **Tecnologías**: Python, C, Bash, SQL, MySQL, Firebase
+- 🧑‍🏫 **Educador**: Me apasiona enseñar a otros sobre desarrollo de software, bases de datos, y ciberseguridad
+- 📗 **Certificaciones**: Técnico en Sistemas Microinformáticos y Redes, Técnico Superior en Administración de Sistemas y Redes, e Ingeniería Informática
 
-### 🔒 Ciberseguridad
-- **[Proyecto 3](https://github.com/tu_usuario/proyecto3)**: Descripción breve del proyecto relacionado con ciberseguridad.
-- **[Proyecto 4](https://github.com/tu_usuario/proyecto4)**: Descripción breve del proyecto relacionado con ciberseguridad.
+## Proyectos destacados
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Proyecto 1: API de Formularios</h3>
+<div align="center">
+<a href="https://github.com/AlexGRDev/proyecto1" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Proyecto API"></a>
+<p>
+<a href="https://github.com/AlexGRDev/proyecto1" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Este proyecto es una API para manejar formularios de inscripción, usando tecnologías como Firebase y Python.</p>
+</div>
+</td>
 
-## 📚 Cursos y aprendizajes
-- **[Curso de C](https://github.com/tu_usuario/curso_c)**: Curso para aprender C desde cero, con fundamentos bien explicados.
-- **[Curso de SQL](https://github.com/tu_usuario/curso_sql)**: Aprendiendo bases de datos SQL, con ejemplos prácticos.
+<td width="50%">
+<h3 align="center">Proyecto 2: Seguridad en Redes</h3>
+<div align="center">
+<a href="https://github.com/AlexGRDev/proyecto2" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Proyecto de Seguridad"></a>
+<p>
+<a href="https://github.com/AlexGRDev/proyecto2" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Proyecto enfocado en la seguridad de redes, con herramientas de ciberseguridad y Python para análisis de vulnerabilidades.</p>
+</div>
+</td>
+</table>
 
-## 🎓 Certificaciones
-- **[Certificación en Administración de Sistemas](https://www.certificacion.com)**.
-- **[Certificación en Ciberseguridad](https://www.certificacion.com)**.
+### ⚙️ &nbsp;Estadísticas de GitHub
 
-## 📈 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&hide_title=true&hide=prs)
-
-## 📫 ¿Cómo contactarme?
-- **Correo electrónico**: tu_correo@ejemplo.com
-- **LinkedIn**: [Tu LinkedIn](https://www.linkedin.com/in/tu_usuario)
+<p align="center">
+<a href="https://github.com/AlexGRDev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
