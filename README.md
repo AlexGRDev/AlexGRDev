@@ -18,6 +18,17 @@
 ### ⚙️ &nbsp;Estadísticas de GitHub
 
 <div align="center">
+  <script>
+  const username = 'AlexGRDev';
+  const baseStatsUrl = 'https://github-readme-stats-eight-theta.vercel.app/api?username=' + username + '&show_icons=true&theme=algolia&include_all_commits=true&count_private=true';
+  const baseLangsUrl = 'https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=' + username + '&layout=compact&langs_count=6&theme=algolia';
+  const baseStreakUrl = 'https://github-readme-streak-stats.herokuapp.com/?user=' + username + '&theme=algolia';
+
+  const uniqueTimeParam = new Date().getTime();
+  document.getElementById('github-stats').src = baseStatsUrl + '&t=' + uniqueTimeParam;
+  document.getElementById('github-langs').src = baseLangsUrl + '&t=' + uniqueTimeParam;
+  document.getElementById('github-streak').src = baseStreakUrl + '&t=' + uniqueTimeParam;
+</script>
   <table>
     <tr>
       <td style="width: 50%; text-align: center;">
@@ -41,16 +52,6 @@
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
 - 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alexgrdev)
 
-<script>
-  const username = 'AlexGRDev';
-  const baseStatsUrl = 'https://github-readme-stats-eight-theta.vercel.app/api?username=' + username + '&show_icons=true&theme=algolia&include_all_commits=true&count_private=true';
-  const baseLangsUrl = 'https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=' + username + '&layout=compact&langs_count=6&theme=algolia';
-  const baseStreakUrl = 'https://github-readme-streak-stats.herokuapp.com/?user=' + username + '&theme=algolia';
 
-  const uniqueTimeParam = new Date().getTime();
-  document.getElementById('github-stats').src = baseStatsUrl + '&t=' + uniqueTimeParam;
-  document.getElementById('github-langs').src = baseLangsUrl + '&t=' + uniqueTimeParam;
-  document.getElementById('github-streak').src = baseStreakUrl + '&t=' + uniqueTimeParam;
-</script>
 
 ¡Gracias por visitar mi perfil! 😄
