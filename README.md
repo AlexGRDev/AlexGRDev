@@ -39,6 +39,6 @@
 ### 📬 Contáctame
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
-- 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alexgrdev)
+- 🌐 **LinkedIn**: [AlexGRDev]()
 
 ¡Gracias por visitar mi perfil! 😄
