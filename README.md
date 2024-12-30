@@ -24,6 +24,11 @@
 </a>
 </p>
 
+### 🔝 Lenguaje más usado
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=1&theme=algolia" alt="Lenguaje más usado"/>
+</p>
+
 ### 📬 Contáctame
 
 - 📧 **Email**: [TuEmail@example.com](mailto:alexgaro2015@gmail.com)
