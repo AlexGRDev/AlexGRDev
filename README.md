@@ -32,7 +32,7 @@
 
 ### 📬 Contáctame
 
-- 📧 **Email**: [TuEmail@example.com](mailto:alexgaro2015@gmail.com)
+- 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
 - 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alexgrdev)
 
 ¡Gracias por visitar mi perfil! 😄
