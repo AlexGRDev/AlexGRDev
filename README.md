@@ -8,7 +8,7 @@
 ## Sobre mí
 
 - 🖥️ **Desarrollador de Software** con experiencia en **Ciberseguridad** y **Bases de Datos**
-- 📲 **Tecnologías**: Python, C, Bash, SQL, MySQL, Firebase, y herramientas de ciberseguridad
+- 📲 **Tecnologías**: Python, C, Bash
 - 🧑‍🏫 **Educador**: Apasionado por compartir conocimientos sobre desarrollo de software y ciberseguridad
 - 📚 **Certificaciones**: 
   - Técnico en Sistemas Microinformáticos y Redes
@@ -35,12 +35,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia" alt="Contribuciones" style="max-width: 100%; height: auto;" />
 </p>
-
-### 🖥️ Lenguajes de Programación
-
-Los lenguajes que más uso en mis repositorios, basados en mis contribuciones recientes, son los siguientes:
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia)
 
 ### 📬 Contáctame
 
