@@ -21,10 +21,10 @@
   <table>
     <tr>
       <td style="width: 50%; text-align: center;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%; height: auto;"/>
+        <img id="github-stats" src="" style="max-width: 100%; height: auto;"/>
       </td>
       <td style="width: 50%; text-align: center;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia" style="max-width: 100%; height: auto;"/>
+        <img id="github-langs" src="" style="max-width: 100%; height: auto;"/>
       </td>
     </tr>
   </table>
@@ -33,12 +33,24 @@
 ### 🧑‍💻 Contribuciones en GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia" alt="Contribuciones" style="max-width: 100%; height: auto;" />
+  <img id="github-streak" src="" alt="Contribuciones" style="max-width: 100%; height: auto;" />
 </p>
 
 ### 📬 Contáctame
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
 - 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alexgrdev)
+
+<script>
+  // Genera una nueva URL con cada recarga de página
+  const username = 'AlexGRDev';
+  const baseStatsUrl = 'https://github-readme-stats-eight-theta.vercel.app/api?username=' + username + '&show_icons=true&theme=algolia&include_all_commits=true&count_private=true';
+  const baseLangsUrl = 'https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=' + username + '&layout=compact&langs_count=6&theme=algolia';
+  const baseStreakUrl = 'https://github-readme-streak-stats.herokuapp.com/?user=' + username + '&theme=algolia';
+
+  document.getElementById('github-stats').src = baseStatsUrl + '&t=' + new Date().getTime(); // Evita cache
+  document.getElementById('github-langs').src = baseLangsUrl + '&t=' + new Date().getTime(); // Evita cache
+  document.getElementById('github-streak').src = baseStreakUrl + '&t=' + new Date().getTime(); // Evita cache
+</script>
 
 ¡Gracias por visitar mi perfil! 😄
