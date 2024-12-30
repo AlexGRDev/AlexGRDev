@@ -17,12 +17,18 @@
 
 ### ⚙️ &nbsp;Estadísticas de GitHub
 
-<p align="center">
-  <a href="https://github.com/AlexGRDev">
-    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=8&theme=algolia&exclude_lang=HTML,CSS"/>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=8&theme=algolia&exclude_lang=HTML,CSS"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🧑‍💻 Contribuciones en GitHub
 
