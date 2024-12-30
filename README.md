@@ -19,7 +19,8 @@
 
 <p align="center">
   <a href="https://github.com/AlexGRDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=8&theme=algolia&exclude_lang=HTML,CSS"/>
   </a>
 </p>
 
@@ -32,6 +33,6 @@
 ### 📬 Contáctame
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
-- 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alex-garcia-rodriguez-564287208/)
+- 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alexgrdev)
 
 ¡Gracias por visitar mi perfil! 😄
