@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/AlexGRDev">AlexGRDev</a> 👋</h1>
 </div>
-[![GitHub followers](https://img.shields.io/github/followers/AlexGRDev?style=social)](https://github.com/AlexGRDev)
+[![GitHub followers](https://img.shields.io/github/followers/AlexGRDev](https://github.com/AlexGRDev)
 ## Sobre mi
 
 - 🖥️ **Desarrollador de Software** | **Especialista en Ciberseguridad**
