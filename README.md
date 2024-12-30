@@ -42,15 +42,15 @@
 - 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alexgrdev)
 
 <script>
-  // Genera una nueva URL con cada recarga de página
   const username = 'AlexGRDev';
   const baseStatsUrl = 'https://github-readme-stats-eight-theta.vercel.app/api?username=' + username + '&show_icons=true&theme=algolia&include_all_commits=true&count_private=true';
   const baseLangsUrl = 'https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=' + username + '&layout=compact&langs_count=6&theme=algolia';
   const baseStreakUrl = 'https://github-readme-streak-stats.herokuapp.com/?user=' + username + '&theme=algolia';
 
-  document.getElementById('github-stats').src = baseStatsUrl + '&t=' + new Date().getTime(); // Evita cache
-  document.getElementById('github-langs').src = baseLangsUrl + '&t=' + new Date().getTime(); // Evita cache
-  document.getElementById('github-streak').src = baseStreakUrl + '&t=' + new Date().getTime(); // Evita cache
+  const uniqueTimeParam = new Date().getTime();
+  document.getElementById('github-stats').src = baseStatsUrl + '&t=' + uniqueTimeParam;
+  document.getElementById('github-langs').src = baseLangsUrl + '&t=' + uniqueTimeParam;
+  document.getElementById('github-streak').src = baseStreakUrl + '&t=' + uniqueTimeParam;
 </script>
 
 ¡Gracias por visitar mi perfil! 😄
