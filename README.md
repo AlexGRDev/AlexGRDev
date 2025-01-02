@@ -43,9 +43,7 @@ Soy un **Tecnico de Sistemas Informaticos** apasionado por la **Ciberseguridad**
 
 Aquí tienes algunos de los proyectos en los que he trabajado:
 
-- **[Proyecto 1](https://github.com/AlexGRDev/proyecto1)**: Breve descripción del proyecto, qué tecnologías usaste y qué aprendiste.
-- **[Proyecto 2](https://github.com/AlexGRDev/proyecto2)**: Breve descripción del proyecto, qué tecnologías usaste y qué aprendiste.
-- **[Proyecto 3](https://github.com/AlexGRDev/proyecto3)**: Breve descripción del proyecto, qué tecnologías usaste y qué aprendiste.
+- **[Proyecto 1](https://github.com/AlexGRDev/42Barcelona_CPiscine)**: Este proyecto consiste en el curso de **42 Barcelona** en el que desarrollé habilidades en programación con **C** y **Shell**. Durante este proyecto, aprendí a resolver problemas complejos, gestioné tareas en entornos de programación Unix, y trabajé en la colaboración con otros estudiantes.
 
 ¡Puedes ver más proyectos en mi [repositorio](https://github.com/AlexGRDev) de GitHub!
 
