@@ -45,9 +45,8 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
 
 - **[Proyecto 1 - 42 Barcelona Piscine](https://github.com/AlexGRDev/42Barcelona_CPiscine)**: Este proyecto es parte del curso de **42 Barcelona** en el que desarrollé habilidades en programación con **C** y **Shell**. Durante este proceso, enfrenté desafíos complejos y trabajé en colaboración con otros estudiantes. **Tecnologías utilizadas**: C, Shell, Linux.
   ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)
-
-- **[Proyecto 2](https://github.com/AlexGRDev/proyecto2)**: Descripción del proyecto, los desafíos que enfrenté, y las tecnologías que utilicé. **Tecnologías utilizadas**: Python, Docker, etc.
-  ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/proyecto2?style=flat-square&color=yellow)
+  ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social)
+  ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
 
 ¡Puedes ver más proyectos en mi [repositorio](https://github.com/AlexGRDev) de GitHub!
 
