@@ -42,7 +42,7 @@ Soy un **Desarrollador de Software** apasionado por la **Ciberseguridad**, con e
 ### 📬 Contáctame
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
-- 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alexgrdev)
+- 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alex-garcia-rodriguez-564287208/)
 
 ---
 
