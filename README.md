@@ -12,8 +12,9 @@ Soy un **Desarrollador de Software** apasionado por la **Ciberseguridad**, con e
 - 🖥️ **Tecnologías que domino**: Python, C, Bash, SQL
 - 🔒 **Especialización**: Ciberseguridad y protección de sistemas
 - 📚 **Formación**: 
-  - Técnico en Sistemas Microinformáticos y Redes
-  - Técnico Superior en Administración de Sistemas Informáticos y Redes
+  - Técnico en Sistemas Microinformáticos y Redes: actualmente - 09/2024
+  - Programming Course - 42 Piscine (26 days, Shell, C): 10/2024 - 11/2024
+  - Técnico Superior en Administración de Sistemas Informáticos y Redes: 09/2021 - 06/2024
   - Ingeniería Informática (en curso)
 
 ### ⚙️ Mis Estadísticas en GitHub
@@ -43,7 +44,6 @@ Soy un **Desarrollador de Software** apasionado por la **Ciberseguridad**, con e
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
 - 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alexgrdev)
-- 🌍 **Portafolio**: [alexgrdev.com](https://alexgrdev.com) *(Si tienes portafolio, añádelo aquí)*
 
 ---
 
