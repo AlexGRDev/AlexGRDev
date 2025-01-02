@@ -1,16 +1,16 @@
 <div align="center">
   <h1>¡Hola, soy <a href="https://github.com/AlexGRDev">AlexGRDev</a> 👋</h1>
-  <p>Desarrollador de Software | Especialista en Ciberseguridad | Educador</p>
+  <p>Tecnico de Sistemas Informaticos</p>
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/AlexGRDev?style=social)](https://github.com/AlexGRDev)
 
 ## 🚀 Sobre mí
 
-Soy un **Desarrollador de Software** apasionado por la **Ciberseguridad**, con experiencia en la creación de aplicaciones seguras. Además, me encanta enseñar y compartir mis conocimientos con otros.
+Soy un **Tecnico de Sistemas Informaticos** apasionado por la **Ciberseguridad**, con experiencia en la Administracion de Sitemas Informaticos.
 
 - 🖥️ **Tecnologías que domino**:C, Sehll, Python
-- 🔒 **Especialización**: Administracion De Sistema
+- 🔒 **Especialización**: Tecnico de Sistemas Informaticos
 - 📚 **Formación**:
   - Técnico en Sistemas Microinformáticos y Redes: actualmente - 09/2024
   - Programming Course - 42 Piscine (26 days, Shell, C): 10/2024 - 11/2024
