@@ -39,6 +39,18 @@ Soy un **Tecnico de Sistemas Informaticos** apasionado por la **Ciberseguridad**
 
 ---
 
+## Proyectos Destacados
+
+Aquí tienes algunos de los proyectos en los que he trabajado:
+
+- **[Proyecto 1](https://github.com/AlexGRDev/proyecto1)**: Breve descripción del proyecto, qué tecnologías usaste y qué aprendiste.
+- **[Proyecto 2](https://github.com/AlexGRDev/proyecto2)**: Breve descripción del proyecto, qué tecnologías usaste y qué aprendiste.
+- **[Proyecto 3](https://github.com/AlexGRDev/proyecto3)**: Breve descripción del proyecto, qué tecnologías usaste y qué aprendiste.
+
+¡Puedes ver más proyectos en mi [repositorio](https://github.com/AlexGRDev) de GitHub!
+
+---
+
 ### 📬 Contáctame
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
