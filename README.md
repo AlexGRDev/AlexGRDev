@@ -7,15 +7,14 @@
 
 ## 🚀 Sobre mí
 
-Soy un **Desarrollador de Software** apasionado por la **Ciberseguridad**, con experiencia en la creación de aplicaciones seguras y la gestión de bases de datos. Además, me encanta enseñar y compartir mis conocimientos con otros.
+Soy un **Desarrollador de Software** apasionado por la **Ciberseguridad**, con experiencia en la creación de aplicaciones seguras. Además, me encanta enseñar y compartir mis conocimientos con otros.
 
-- 🖥️ **Tecnologías que domino**: Python, C, Bash, SQL
-- 🔒 **Especialización**: Ciberseguridad y protección de sistemas
-- 📚 **Formación**: 
+- 🖥️ **Tecnologías que domino**:C, Sehll, Python
+- 🔒 **Especialización**: Administracion De Sistema
+- 📚 **Formación**:
   - Técnico en Sistemas Microinformáticos y Redes: actualmente - 09/2024
   - Programming Course - 42 Piscine (26 days, Shell, C): 10/2024 - 11/2024
   - Técnico Superior en Administración de Sistemas Informáticos y Redes: 09/2021 - 06/2024
-  - Ingeniería Informática (en curso)
 
 ### ⚙️ Mis Estadísticas en GitHub
 
