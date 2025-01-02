@@ -1,24 +1,22 @@
 <div align="center">
-  <h1>Hola, soy <a href="https://github.com/AlexGRDev">AlexGRDev</a> 👋</h1>
+  <h1>¡Hola, soy <a href="https://github.com/AlexGRDev">AlexGRDev</a> 👋</h1>
   <p>Desarrollador de Software | Especialista en Ciberseguridad | Educador</p>
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/AlexGRDev?style=social)](https://github.com/AlexGRDev)
 
-## Sobre mí
+## 🚀 Sobre mí
 
-- 🖥️ **Desarrollador de Software** con experiencia en **Ciberseguridad**, **Bases de Datos** y **Redes**.
-- 🔐 Especializado en **Ciberseguridad** y **Análisis de Vulnerabilidades**.
-- 📲 **Tecnologías**: Python, C, Bash, SQL, Linux, Windows.
-- 🎓 **Educador**: Apasionado por compartir conocimientos sobre desarrollo de software y ciberseguridad.
-- 🌱 Siempre aprendiendo y buscando mejorar mis habilidades y conocimientos.
+Soy un **Desarrollador de Software** apasionado por la **Ciberseguridad**, con experiencia en la creación de aplicaciones seguras y la gestión de bases de datos. Además, me encanta enseñar y compartir mis conocimientos con otros.
 
-### 🎯 **Certificaciones y Formación**
-- **Técnico en Sistemas Microinformáticos y Redes** (Instituto Poblenou, 2024)
-- **Técnico Superior en Administración de Sistemas y Redes** (Ilerna Barcelona, en curso)
-- **Fundación Telefónica Programming Course** - 42 Barcelona (2024)
+- 🖥️ **Tecnologías que domino**: Python, C, Bash, SQL
+- 🔒 **Especialización**: Ciberseguridad y protección de sistemas
+- 📚 **Formación**: 
+  - Técnico en Sistemas Microinformáticos y Redes
+  - Técnico Superior en Administración de Sistemas Informáticos y Redes
+  - Ingeniería Informática (en curso)
 
-### ⚙️ **Estadísticas de GitHub**
+### ⚙️ Mis Estadísticas en GitHub
 
 <div align="center">
   <table>
@@ -33,15 +31,20 @@
   </table>
 </div>
 
-### 🧑‍💻 **Contribuciones en GitHub**
+### 🧑‍💻 Contribuciones en GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia&random=1" alt="Contribuciones" style="max-width: 100%; height: auto;" />
 </p>
 
-### 📬 **Contáctame**
+---
+
+### 📬 Contáctame
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
 - 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alexgrdev)
+- 🌍 **Portafolio**: [alexgrdev.com](https://alexgrdev.com) *(Si tienes portafolio, añádelo aquí)*
 
-¡Gracias por visitar mi perfil! 😄
+---
+
+¡Gracias por visitar mi perfil! 😄 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
