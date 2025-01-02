@@ -9,7 +9,7 @@
 
 Soy un **Tecnico de Sistemas Informaticos** apasionado por la **Ciberseguridad**, con experiencia en la Administracion de Sitemas Informaticos.
 
-- 🖥️ **Tecnologías que domino**:C, Sehll, Python
+- 🖥️ **Tecnologías que domino**:C, Shell, Python
 - 🔒 **Especialización**: Tecnico de Sistemas Informaticos
 - 📚 **Formación**:
   - Técnico en Sistemas Microinformáticos y Redes: actualmente - 09/2024
@@ -43,7 +43,11 @@ Soy un **Tecnico de Sistemas Informaticos** apasionado por la **Ciberseguridad**
 
 Aquí tienes algunos de los proyectos en los que he trabajado:
 
-- **[Proyecto 1](https://github.com/AlexGRDev/42Barcelona_CPiscine)**: Este proyecto consiste en el curso de **42 Barcelona** en el que desarrollé habilidades en programación con **C** y **Shell**. Durante este proyecto, aprendí a resolver problemas complejos, gestioné tareas en entornos de programación Unix, y trabajé en la colaboración con otros estudiantes.
+- **[Proyecto 1 - 42 Barcelona Piscine](https://github.com/AlexGRDev/42Barcelona_CPiscine)**: Este proyecto es parte del curso de **42 Barcelona** en el que desarrollé habilidades en programación con **C** y **Shell**. Durante este proceso, enfrenté desafíos complejos y trabajé en colaboración con otros estudiantes. **Tecnologías utilizadas**: C, Shell, Linux.
+  ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)
+
+- **[Proyecto 2](https://github.com/AlexGRDev/proyecto2)**: Descripción del proyecto, los desafíos que enfrenté, y las tecnologías que utilicé. **Tecnologías utilizadas**: Python, Docker, etc.
+  ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/proyecto2?style=flat-square&color=yellow)
 
 ¡Puedes ver más proyectos en mi [repositorio](https://github.com/AlexGRDev) de GitHub!
 
