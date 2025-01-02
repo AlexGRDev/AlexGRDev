@@ -1,21 +1,22 @@
 <div align="center">
-  <h1>Hola, soy <a href="https://github.com/AlexGRDev">AlexGRDev</a> 👋</h1>
-  <p>Desarrollador de Software | Especialista en Ciberseguridad</p>
+  <h1>¡Hola, soy <a href="https://github.com/AlexGRDev">AlexGRDev</a> 👋</h1>
+  <p>Desarrollador de Software | Especialista en Ciberseguridad | Educador</p>
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/AlexGRDev?style=social)](https://github.com/AlexGRDev)
 
-## Sobre mí
+## 🚀 Sobre mí
 
-- 🖥️ **Desarrollador de Software** con experiencia en **Ciberseguridad** y **Bases de Datos**
-- 📲 **Tecnologías**: Python, C, Bash
-- 🧑‍🏫 **Educador**: Apasionado por compartir conocimientos sobre desarrollo de software y ciberseguridad
-- 📚 **Certificaciones**: 
+Soy un **Desarrollador de Software** apasionado por la **Ciberseguridad**, con experiencia en la creación de aplicaciones seguras y la gestión de bases de datos. Además, me encanta enseñar y compartir mis conocimientos con otros.
+
+- 🖥️ **Tecnologías que domino**: Python, C, Bash, SQL
+- 🔒 **Especialización**: Ciberseguridad y protección de sistemas
+- 📚 **Formación**: 
   - Técnico en Sistemas Microinformáticos y Redes
-  - Técnico Superior en Administración de Sistemas y Redes
-  - Ingeniería Informática
+  - Técnico Superior en Administración de Sistemas Informáticos y Redes
+  - Ingeniería Informática (en curso)
 
-### ⚙️ &nbsp;Estadísticas de GitHub
+### ⚙️ Mis Estadísticas en GitHub
 
 <div align="center">
   <table>
@@ -36,9 +37,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia&random=1" alt="Contribuciones" style="max-width: 100%; height: auto;" />
 </p>
 
+---
+
 ### 📬 Contáctame
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
 - 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alexgrdev)
+- 🌍 **Portafolio**: [alexgrdev.com](https://alexgrdev.com) *(Si tienes portafolio, añádelo aquí)*
 
-¡Gracias por visitar mi perfil! 😄
+---
+
+¡Gracias por visitar mi perfil! 😄 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
