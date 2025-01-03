@@ -1,4 +1,4 @@
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
 Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad**, con experiencia en la **Administración de Sistemas Informáticos**.
 
@@ -9,94 +9,56 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
   - **Programming Course - 42 Piscine** (26 días, Shell, C): 10/2024 - 11/2024
   - **Técnico Superior en Administración de Sistemas Informáticos y Redes**: 09/2021 - 06/2024
 
-### ⚙️ Mis Estadísticas en GitHub
+---
+
+## ⚙️ Mis Estadísticas en GitHub
 
 <div align="center">
   <table>
     <tr>
       <td style="width: 50%; text-align: center;">
-        <img id="estadisticas" src="https://github-readme-stats.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%; height: auto;" alt="Estadísticas GitHub"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=AlexGRDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas GitHub"/>
       </td>
       <td style="width: 50%; text-align: center;">
-        <img id="lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia" style="max-width: 100%; height: auto;" alt="Lenguajes principales GitHub"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🧑‍💻 Contribuciones en GitHub
-
-<p align="center">
-  <img id="contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia" alt="Contribuciones" style="max-width: 100%; height: auto;" />
-</p>
-
-### 📊 Histórico de Actividad en GitHub
-
-Aquí tienes una visión más profunda de mi actividad en GitHub:
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <strong>Nombre de Usuario:</strong> AlexGRDev
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Seguidores:</strong> [Seguidores](https://img.shields.io/github/followers/AlexGRDev?style=social)
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Repositorios Públicos:</strong> [Repositorios](https://img.shields.io/github/repo-size/AlexGRDev?style=flat-square)
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Repositorios:</strong> 16
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Commits Totales:</strong> [Commits](https://img.shields.io/github/commit-activity/m/AlexGRDev?style=flat-square&color=brightgreen)
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Pull Requests Abiertos:</strong> [PRs Abiertos](https://img.shields.io/github/issues-pr/AlexGRDev?style=flat-square)
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Issues Abiertos:</strong> [Issues Abiertos](https://img.shields.io/github/issues/AlexGRDev?style=flat-square)
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=radical" alt="Lenguajes principales GitHub"/>
       </td>
     </tr>
   </table>
 </div>
 
 ---
+
+## 🧑‍💻 Contribuciones en GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=radical" alt="Contribuciones" />
+</p>
 
 ## Proyectos Destacados
 
-Aquí tienes algunos de los proyectos en los que he trabajado:
+### 1. **[42 Barcelona Piscine](https://github.com/AlexGRDev/42Barcelona_CPiscine)**
 
-- **[Proyecto 1 - 42 Barcelona Piscine](https://github.com/AlexGRDev/42Barcelona_CPiscine)**: Este proyecto es parte del curso de **42 Barcelona**, en el que desarrollé habilidades en programación con **C** y **Shell**. Durante este proceso, enfrenté desafíos complejos y trabajé en colaboración con otros estudiantes.  
-  **Tecnologías utilizadas**: C, Shell, Linux.
-  ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)
-  ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social)
-  ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
-  
-- **[Proyecto 2 - PySafeVault](https://github.com/AlexGRDev/PySafeVault)**: Un gestor de contraseñas en Python que almacena credenciales de forma segura utilizando encriptación AES. Incluye funcionalidades para guardar, consultar y borrar contraseñas con una interfaz en consola fácil de usar.  
-  **Tecnologías utilizadas**: Python, AES, Consola.
-  ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/PySafeVault?style=flat-square&color=brightgreen)
-  ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/PySafeVault?style=social)
-  ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/PySafeVault?style=flat-square)
+Este proyecto es parte del curso de **42 Barcelona**, donde desarrollé habilidades en **C** y **Shell**. Fue una experiencia inmersiva en programación, enfrentando desafíos complejos y trabajando en colaboración.
 
-¡Puedes ver más proyectos en mi [repositorio](https://github.com/AlexGRDev) de GitHub!
+**Tecnologías utilizadas**: C, Shell, Linux  
+![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)  
+![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social)  
+![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
 
 ---
 
-### 📬 Contáctame
+### 2. **[PySafeVault](https://github.com/AlexGRDev/PySafeVault)**
+
+Un **gestor de contraseñas** en Python que utiliza **encriptación AES** para almacenar credenciales de forma segura. Incluye funcionalidades para guardar, consultar y borrar contraseñas desde la consola.
+
+**Tecnologías utilizadas**: Python, AES, Consola  
+![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/PySafeVault?style=flat-square&color=brightgreen)  
+![Estrellas](https://img.shields.io/github/stars/AlexGRDev/PySafeVault?style=social)  
+![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/PySafeVault?style=flat-square)
+
+---
+
+## 📬 Contáctame
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
 - 🌐 **LinkedIn**: [AlexGRDev](https://www.linkedin.com/in/alex-garcia-rodriguez-564287208/)
