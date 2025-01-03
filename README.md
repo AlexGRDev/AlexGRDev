@@ -30,6 +30,50 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
   <img id="contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia" alt="Contribuciones" style="max-width: 100%; height: auto;" />
 </p>
 
+### 📊 Histórico de Actividad en GitHub
+
+Aquí tienes una visión más profunda de mi actividad en GitHub:
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <strong>Nombre de Usuario:</strong> AlexGRDev
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Seguidores:</strong> ![Seguidores](https://img.shields.io/github/followers/AlexGRDev?style=social)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Repositorios Públicos:</strong> ![Repositorios](https://img.shields.io/github/repo-size/AlexGRDev?style=flat-square)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Repositorios:</strong> 16
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Commits Totales:</strong> ![Commits](https://img.shields.io/github/commit-activity/m/AlexGRDev?style=flat-square&color=brightgreen)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Pull Requests Abiertos:</strong> ![PRs Abiertos](https://img.shields.io/github/issues-pr/AlexGRDev?style=flat-square)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Issues Abiertos:</strong> ![Issues Abiertos](https://img.shields.io/github/issues/AlexGRDev?style=flat-square)
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## Proyectos Destacados
@@ -41,6 +85,12 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
   ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)
   ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social)
   ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
+  
+- **[Proyecto 2 - PySafeVault](https://github.com/AlexGRDev/PySafeVault)**: Un gestor de contraseñas en Python que almacena credenciales de forma segura utilizando encriptación AES. Incluye funcionalidades para guardar, consultar y borrar contraseñas con una interfaz en consola fácil de usar.  
+  **Tecnologías utilizadas**: Python, AES, Consola.
+  ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/PySafeVault?style=flat-square&color=brightgreen)
+  ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/PySafeVault?style=social)
+  ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/PySafeVault?style=flat-square)
 
 ¡Puedes ver más proyectos en mi [repositorio](https://github.com/AlexGRDev) de GitHub!
 
