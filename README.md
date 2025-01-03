@@ -44,13 +44,17 @@ Soy un **Tecnico de Sistemas Informaticos** apasionado por la **Ciberseguridad**
 Aquí tienes algunos de los proyectos en los que he trabajado:
 
 - **[Proyecto 1 - 42 Barcelona Piscine](https://github.com/AlexGRDev/42Barcelona_CPiscine)**: Este proyecto es parte del curso de **42 Barcelona** en el que desarrollé habilidades en programación con **C** y **Shell**. Durante este proceso, enfrenté desafíos complejos y trabajé en colaboración con otros estudiantes. **Tecnologías utilizadas**: C, Shell, Linux.
-  ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)
-  ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social)
-  ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
+  <p>
+    ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)
+    ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social)
+    ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
+  </p>
 - **[Proyecto 2 - PySafeVault](https://github.com/AlexGRDev/PySafeVault)**:Un gestor de contraseñas en Python que almacena credenciales de forma segura utilizando encriptación AES. Incluye funcionalidades para guardar, consultar y borrar contraseñas con una interfaz en consola fácil de usar.
-  ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/PySafeVault?style=flat-square&color=brightgreen)
-  ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/PySafeVault?style=social)
-  ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/PySafeVault?style=flat-square)
+  <p>
+    ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/PySafeVault?style=flat-square&color=brightgreen)
+    ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/PySafeVault?style=social)
+    ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/PySafeVault?style=flat-square)
+  </p>
 
 ¡Puedes ver más proyectos en mi [repositorio](https://github.com/AlexGRDev) de GitHub!
 
