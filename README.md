@@ -43,12 +43,12 @@ Aquí tienes una visión más profunda de mi actividad en GitHub:
     </tr>
     <tr>
       <td>
-        <strong>Seguidores:</strong> ![Seguidores](https://img.shields.io/github/followers/AlexGRDev?style=social)
+        <strong>Seguidores:</strong> [Seguidores](https://img.shields.io/github/followers/AlexGRDev?style=social)
       </td>
     </tr>
     <tr>
       <td>
-        <strong>Repositorios Públicos:</strong> ![Repositorios](https://img.shields.io/github/repo-size/AlexGRDev?style=flat-square)
+        <strong>Repositorios Públicos:</strong> [Repositorios](https://img.shields.io/github/repo-size/AlexGRDev?style=flat-square)
       </td>
     </tr>
     <tr>
@@ -58,17 +58,17 @@ Aquí tienes una visión más profunda de mi actividad en GitHub:
     </tr>
     <tr>
       <td>
-        <strong>Commits Totales:</strong> ![Commits](https://img.shields.io/github/commit-activity/m/AlexGRDev?style=flat-square&color=brightgreen)
+        <strong>Commits Totales:</strong> [Commits](https://img.shields.io/github/commit-activity/m/AlexGRDev?style=flat-square&color=brightgreen)
       </td>
     </tr>
     <tr>
       <td>
-        <strong>Pull Requests Abiertos:</strong> ![PRs Abiertos](https://img.shields.io/github/issues-pr/AlexGRDev?style=flat-square)
+        <strong>Pull Requests Abiertos:</strong> [PRs Abiertos](https://img.shields.io/github/issues-pr/AlexGRDev?style=flat-square)
       </td>
     </tr>
     <tr>
       <td>
-        <strong>Issues Abiertos:</strong> ![Issues Abiertos](https://img.shields.io/github/issues/AlexGRDev?style=flat-square)
+        <strong>Issues Abiertos:</strong> [Issues Abiertos](https://img.shields.io/github/issues/AlexGRDev?style=flat-square)
       </td>
     </tr>
   </table>
