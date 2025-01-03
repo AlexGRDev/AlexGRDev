@@ -5,6 +5,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/AlexGRDev?style=social)](https://github.com/AlexGRDev)
 
+---
+
 ## 🚀 Sobre mí
 
 Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad**, con experiencia en la **Administración de Sistemas Informáticos**.
@@ -15,6 +17,8 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
   - **Técnico en Sistemas Microinformáticos y Redes**: Actualmente - 09/2024
   - **Programming Course - 42 Piscine** (26 días, Shell, C): 10/2024 - 11/2024
   - **Técnico Superior en Administración de Sistemas Informáticos y Redes**: 09/2021 - 06/2024
+
+---
 
 ### ⚙️ Mis Estadísticas en GitHub
 
@@ -31,11 +35,19 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
   </table>
 </div>
 
+---
+
 ### 🧑‍💻 Contribuciones en GitHub
 
+<<<<<<< HEAD
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia" alt="Contribuciones" style="max-width: 100%; height: auto;" />
 </p>
+=======
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia&random=1" alt="Contribuciones" style="max-width: 90%; height: auto; margin: auto;" />
+</div>
+>>>>>>> 24b03514cfb48e5e51d1af2e862fc1852fdbd5ad
 
 ---
 
@@ -60,4 +72,6 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
 
 ---
 
-¡Gracias por visitar mi perfil! 😄 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
+<div align="center">
+  ¡Gracias por visitar mi perfil! 😄 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
+</div>
