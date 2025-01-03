@@ -15,10 +15,10 @@
     <table>
       <tr>
         <td style="width: 50%; text-align: center;">
-          <img id="estadisticas" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%; height: auto;" alt="Estadísticas GitHub"/>
+          <img id="estadisticas" src="https://github-readme-stats.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%; height: auto;" alt="Estadísticas GitHub"/>
         </td>
         <td style="width: 50%; text-align: center;">
-          <img id="lenguajes" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia" style="max-width: 100%; height: auto;" alt="Lenguajes principales GitHub"/>
+          <img id="lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia" style="max-width: 100%; height: auto;" alt="Lenguajes principales GitHub"/>
         </td>
       </tr>
     </table>
