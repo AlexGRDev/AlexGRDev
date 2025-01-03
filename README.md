@@ -1,20 +1,20 @@
 <div align="center">
   <h1>¡Hola, soy <a href="https://github.com/AlexGRDev">AlexGRDev</a> 👋</h1>
-  <p>Tecnico de Sistemas Informaticos</p>
+  <p>Técnico de Sistemas Informáticos</p>
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/AlexGRDev?style=social)](https://github.com/AlexGRDev)
 
 ## 🚀 Sobre mí
 
-Soy un **Tecnico de Sistemas Informaticos** apasionado por la **Ciberseguridad**, con experiencia en la Administracion de Sitemas Informaticos.
+Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad**, con experiencia en la **Administración de Sistemas Informáticos**.
 
-- 🖥️ **Tecnologías que domino**:C, Shell, Python
-- 🔒 **Especialización**: Tecnico de Sistemas Informaticos
+- 🖥️ **Tecnologías que domino**: C, Shell, Python
+- 🔒 **Especialización**: Técnico en Sistemas Informáticos
 - 📚 **Formación**:
-  - Técnico en Sistemas Microinformáticos y Redes: actualmente - 09/2024
-  - Programming Course - 42 Piscine (26 days, Shell, C): 10/2024 - 11/2024
-  - Técnico Superior en Administración de Sistemas Informáticos y Redes: 09/2021 - 06/2024
+  - **Técnico en Sistemas Microinformáticos y Redes**: Actualmente - 09/2024
+  - **Programming Course - 42 Piscine** (26 días, Shell, C): 10/2024 - 11/2024
+  - **Técnico Superior en Administración de Sistemas Informáticos y Redes**: 09/2021 - 06/2024
 
 ### ⚙️ Mis Estadísticas en GitHub
 
@@ -43,13 +43,16 @@ Soy un **Tecnico de Sistemas Informaticos** apasionado por la **Ciberseguridad**
 
 Aquí tienes algunos de los proyectos en los que he trabajado:
 
-- **[Proyecto 1 - 42 Barcelona Piscine](https://github.com/AlexGRDev/42Barcelona_CPiscine)**: Este proyecto es parte del curso de **42 Barcelona** en el que desarrollé habilidades en programación con **C** y **Shell**. Durante este proceso, enfrenté desafíos complejos y trabajé en colaboración con otros estudiantes. **Tecnologías utilizadas**: C, Shell, Linux.
+- **[Proyecto 1 - 42 Barcelona Piscine](https://github.com/AlexGRDev/42Barcelona_CPiscine)**: Este proyecto es parte del curso de **42 Barcelona**, en el que desarrollé habilidades en programación con **C** y **Shell**. Durante este proceso, enfrenté desafíos complejos y trabajé en colaboración con otros estudiantes.  
+  **Tecnologías utilizadas**: C, Shell, Linux.
   <p>
     ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)
     ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social)
     ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
   </p>
-- **[Proyecto 2 - PySafeVault](https://github.com/AlexGRDev/PySafeVault)**:Un gestor de contraseñas en Python que almacena credenciales de forma segura utilizando encriptación AES. Incluye funcionalidades para guardar, consultar y borrar contraseñas con una interfaz en consola fácil de usar.
+  
+- **[Proyecto 2 - PySafeVault](https://github.com/AlexGRDev/PySafeVault)**: Un gestor de contraseñas en Python que almacena credenciales de forma segura utilizando encriptación AES. Incluye funcionalidades para guardar, consultar y borrar contraseñas con una interfaz en consola fácil de usar.  
+  **Tecnologías utilizadas**: Python, AES, Consola.
   <p>
     ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/PySafeVault?style=flat-square&color=brightgreen)
     ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/PySafeVault?style=social)
