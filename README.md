@@ -41,12 +41,6 @@ Aquí tienes algunos de los proyectos en los que he trabajado:
   ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)
   ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social)
   ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
-  
-- **[Proyecto 2 - PySafeVault](https://github.com/AlexGRDev/PySafeVault)**: Un gestor de contraseñas en Python que almacena credenciales de forma segura utilizando encriptación AES. Incluye funcionalidades para guardar, consultar y borrar contraseñas con una interfaz en consola fácil de usar.  
-  **Tecnologías utilizadas**: Python, AES, Consola.
-  ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/PySafeVault?style=flat-square&color=brightgreen)
-  ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/PySafeVault?style=social)
-  ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/PySafeVault?style=flat-square)
 
 ¡Puedes ver más proyectos en mi [repositorio](https://github.com/AlexGRDev) de GitHub!
 
