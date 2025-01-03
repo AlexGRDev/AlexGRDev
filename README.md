@@ -25,7 +25,7 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&timestamp=<?=time()?>" style="max-width: 100%; height: auto;" alt="Estadísticas GitHub"/>
       </td>
       <td style="width: 50%; text-align: center;">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia&timestamp=<?=time()?>" style="max-width: 100%; height: auto;" alt="Lenguajes principales GitHub"/>
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia&timestamp=%3C?=time()?>" style="max-width: 100%; height: auto;" alt="Lenguajes principales GitHub"/>
       </td>
     </tr>
   </table>
