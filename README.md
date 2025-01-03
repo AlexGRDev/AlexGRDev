@@ -16,8 +16,8 @@
       document.getElementById("contribuciones").src = "https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia&timestamp=" + timestamp;
     }
 
-    // Establecer la actualización de las imágenes cada 500 milisegundos
-    setInterval(actualizarEstadisticas, 500); // Intervalo de 0.5 segundos
+    // Establecer la actualización de las imágenes cada 1 segundo (1000 milisegundos)
+    setInterval(actualizarEstadisticas, 1000); // Intervalo de 1 segundo
   </script>
 </head>
 <body>
@@ -27,7 +27,11 @@
   </div>
 
   <!-- Badge de seguidores de GitHub -->
-  [![GitHub followers](https://img.shields.io/github/followers/AlexGRDev?style=social)](https://github.com/AlexGRDev)
+  <p align="center">
+    <a href="https://github.com/AlexGRDev">
+      <img src="https://img.shields.io/github/followers/AlexGRDev?style=social" alt="GitHub followers">
+    </a>
+  </p>
 
   ## 🚀 Sobre mí
 
