@@ -26,6 +26,7 @@
     <p>Técnico de Sistemas Informáticos</p>
   </div>
 
+  <!-- Badge de seguidores de GitHub -->
   [![GitHub followers](https://img.shields.io/github/followers/AlexGRDev?style=social)](https://github.com/AlexGRDev)
 
   ## 🚀 Sobre mí
@@ -45,10 +46,10 @@
     <table>
       <tr>
         <td style="width: 50%; text-align: center;">
-          <img id="estadisticas" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&timestamp=<?=time()?>" style="max-width: 100%; height: auto;" alt="Estadísticas GitHub"/>
+          <img id="estadisticas" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%; height: auto;" alt="Estadísticas GitHub"/>
         </td>
         <td style="width: 50%; text-align: center;">
-          <img id="lenguajes" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia&timestamp=<?=time()?>" style="max-width: 100%; height: auto;" alt="Lenguajes principales GitHub"/>
+          <img id="lenguajes" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia" style="max-width: 100%; height: auto;" alt="Lenguajes principales GitHub"/>
         </td>
       </tr>
     </table>
@@ -57,7 +58,7 @@
   ### 🧑‍💻 Contribuciones en GitHub
 
   <p align="center">
-    <img id="contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia&timestamp=<?=time()?>" alt="Contribuciones" style="max-width: 100%; height: auto;" />
+    <img id="contribuciones" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia" alt="Contribuciones" style="max-width: 100%; height: auto;" />
   </p>
 
   ---
