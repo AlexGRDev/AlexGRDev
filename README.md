@@ -1,39 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Perfil de GitHub - Actualización Rápida</title>
-  <script>
-    // Función para actualizar las imágenes en intervalos rápidos
-    function actualizarEstadisticas() {
-      // Generamos un timestamp para evitar caché
-      const timestamp = new Date().getTime();
-
-      // Actualizamos las URLs de las imágenes con el timestamp
-      document.getElementById("estadisticas").src = "https://github-readme-stats-eight-theta.vercel.app/api?username=AlexGRDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&timestamp=" + timestamp;
-      document.getElementById("lenguajes").src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=algolia&timestamp=" + timestamp;
-      document.getElementById("contribuciones").src = "https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=algolia&timestamp=" + timestamp;
-    }
-
-    // Establecer la actualización de las imágenes cada 1 segundo (1000 milisegundos)
-    setInterval(actualizarEstadisticas, 1000); // Intervalo de 1 segundo
-  </script>
-</head>
-<body>
-  <div align="center">
-    <h1>¡Hola, soy <a href="https://github.com/AlexGRDev" target="_blank">AlexGRDev</a> 👋</h1>
-    <p>Técnico de Sistemas Informáticos</p>
-  </div>
-
-  <!-- Badge de seguidores de GitHub -->
-  <p align="center">
-    <a href="https://github.com/AlexGRDev">
-      <img src="https://img.shields.io/github/followers/AlexGRDev?style=social" alt="GitHub followers">
-    </a>
-  </p>
-
-  ## 🚀 Sobre mí
+## 🚀 Sobre mí
 
   Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad**, con experiencia en la **Administración de Sistemas Informáticos**.
 
@@ -95,5 +60,3 @@
   ---
 
   ¡Gracias por visitar mi perfil! 😄 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!
-</body>
-</html>
