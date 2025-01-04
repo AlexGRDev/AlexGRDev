@@ -47,12 +47,12 @@ Este proyecto es parte del curso de **42 Barcelona**, donde desarrollé habilida
 
 ---
 
-### 2. **PySafeVault [⭐ Dale una estrella](https://github.com/AlexGRDev/PySafeVault)**  
-Un **gestor de contraseñas** en Python que utiliza **encriptación AES** para almacenar credenciales de forma segura. Incluye funcionalidades para guardar, consultar y borrar contraseñas desde la consola. **Tecnologías utilizadas**: Python, AES, Consola.  
-![Estrellas](https://img.shields.io/github/stars/AlexGRDev/PySafeVault?style=social)  
-![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/PySafeVault?style=flat-square&color=brightgreen)  
-![Forks](https://img.shields.io/github/forks/AlexGRDev/PySafeVault?style=flat-square&color=blue)  
-![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/PySafeVault?style=flat-square)
+### 2. **Ropo Roadmap (2024) [⭐ Dale una estrella](https://github.com/AlexGRDev/Ropo-Roadmap-2024)**  
+Este repositorio contiene un roadmap detallado para aprender C, Shell y otros temas importantes para el desarrollo en **42 Barcelona** y otros campos de la informática. Es una guía para aprender y organizar las rutas de aprendizaje de manera eficiente. **Tecnologías utilizadas**: C, Shell.  
+![Estrellas](https://img.shields.io/github/stars/AlexGRDev/Ropo-Roadmap-2024?style=social)  
+![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/Ropo-Roadmap-2024?style=flat-square&color=brightgreen)  
+![Forks](https://img.shields.io/github/forks/AlexGRDev/Ropo-Roadmap-2024?style=flat-square&color=blue)  
+![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/Ropo-Roadmap-2024?style=flat-square)
 
 ---
 
