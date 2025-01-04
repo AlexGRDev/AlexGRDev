@@ -34,27 +34,21 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=radical" alt="Contribuciones" />
 </p>
 
+---
+
 ## Proyectos Destacados
 
-### 1. **[42 Barcelona Piscine](https://github.com/AlexGRDev/42Barcelona_CPiscine)**
-
-Este proyecto es parte del curso de **42 Barcelona**, donde desarrollé habilidades en **C** y **Shell**. Fue una experiencia inmersiva en programación, enfrentando desafíos complejos y trabajando en colaboración.
-
-**Tecnologías utilizadas**: C, Shell, Linux  
-![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)  
+### 1. **42 Barcelona Piscine [⭐ Dale una estrella](https://github.com/AlexGRDev/42Barcelona_CPiscine)**  
+Este proyecto es parte del curso de **42 Barcelona**, donde desarrollé habilidades en **C** y **Shell**. Fue una experiencia inmersiva en programación, enfrentando desafíos complejos y trabajando en colaboración. **Tecnologías utilizadas**: C, Shell, Linux.<br>
 ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social)  
-![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
+![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen) ![Forks](https://img.shields.io/github/forks/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=blue) ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
 
 ---
 
-### 2. **[PySafeVault](https://github.com/AlexGRDev/PySafeVault)**
-
-Un **gestor de contraseñas** en Python que utiliza **encriptación AES** para almacenar credenciales de forma segura. Incluye funcionalidades para guardar, consultar y borrar contraseñas desde la consola.
-
-**Tecnologías utilizadas**: Python, AES, Consola  
-![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/PySafeVault?style=flat-square&color=brightgreen)  
+### 2. **PySafeVault [⭐ Dale una estrella](https://github.com/AlexGRDev/PySafeVault)**  
+Un **gestor de contraseñas** en Python que utiliza **encriptación AES** para almacenar credenciales de forma segura. Incluye funcionalidades para guardar, consultar y borrar contraseñas desde la consola. **Tecnologías utilizadas**: Python, AES, Consola.  
 ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/PySafeVault?style=social)  
-![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/PySafeVault?style=flat-square)
+![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/PySafeVault?style=flat-square&color=brightgreen) ![Forks](https://img.shields.io/github/forks/AlexGRDev/PySafeVault?style=flat-square&color=blue) ![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/PySafeVault?style=flat-square)
 
 ---
 
