@@ -20,7 +20,7 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
         <img src="https://github-readme-stats.vercel.app/api?username=AlexGRDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas GitHub"/>
       </td>
       <td style="width: 50%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=radical" alt="Lenguajes principales GitHub"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=radical&cache_seconds=1" alt="Lenguajes principales GitHub"/>
       </td>
     </tr>
   </table>
