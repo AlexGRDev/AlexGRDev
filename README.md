@@ -17,7 +17,7 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
   <table>
     <tr>
       <td style="width: 50%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=AlexGRDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas GitHub"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=AlexGRDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1" alt="Estadísticas GitHub"/>
       </td>
       <td style="width: 50%; text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&langs_count=6&theme=radical&cache_seconds=1" alt="Lenguajes principales GitHub"/>
@@ -31,7 +31,7 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
 ## 🧑‍💻 Contribuciones en GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=radical" alt="Contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=radical&cache_seconds=1" alt="Contribuciones" />
 </p>
 
 ---
@@ -40,19 +40,19 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
 
 ### 1. **42 Barcelona Piscine [⭐ Dale una estrella](https://github.com/AlexGRDev/42Barcelona_CPiscine)**  
 Este proyecto es parte del curso de **42 Barcelona**, donde desarrollé habilidades en **C** y **Shell**. Fue una experiencia inmersiva en programación, enfrentando desafíos complejos y trabajando en colaboración. **Tecnologías utilizadas**: C, Shell, Linux.<br>
-![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social)  
-![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen)  
-![Forks](https://img.shields.io/github/forks/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=blue)  
-![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square)
+![Estrellas](https://img.shields.io/github/stars/AlexGRDev/42Barcelona_CPiscine?style=social&cache_seconds=1)  
+![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=brightgreen&cache_seconds=1)  
+![Forks](https://img.shields.io/github/forks/AlexGRDev/42Barcelona_CPiscine?style=flat-square&color=blue&cache_seconds=1)  
+![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/42Barcelona_CPiscine?style=flat-square&cache_seconds=1)
 
 ---
 
 ### 2. **Roadmap 2024 [⭐ Dale una estrella](https://github.com/AlexGRDev/roadmap-2024)**  
 Un **repositorio para gestionar y seguir el progreso** en los proyectos del 2024. Este proyecto permite a los desarrolladores estructurar y organizar sus objetivos anuales, con una planificación clara de las metas. **Tecnologías utilizadas**: Markdown, Git, Gestión de Proyectos.<br>
-![Estrellas](https://img.shields.io/github/stars/AlexGRDev/roadmap-2024?style=social)  
-![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/roadmap-2024?style=flat-square&color=brightgreen)  
-![Forks](https://img.shields.io/github/forks/AlexGRDev/roadmap-2024?style=flat-square&color=blue)  
-![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/roadmap-2024?style=flat-square)
+![Estrellas](https://img.shields.io/github/stars/AlexGRDev/roadmap-2024?style=social&cache_seconds=1)  
+![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/roadmap-2024?style=flat-square&color=brightgreen&cache_seconds=1)  
+![Forks](https://img.shields.io/github/forks/AlexGRDev/roadmap-2024?style=flat-square&color=blue&cache_seconds=1)  
+![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/roadmap-2024?style=flat-square&cache_seconds=1)
 
 ---
 
