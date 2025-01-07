@@ -32,7 +32,6 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=radical&cache_seconds=0" alt="Contribuciones" />
-  <p style="color: red;">Si no ves tus contribuciones aquí, podría ser un problema temporal con la API de GitHub o el servicio de estadísticas. Te recomiendo intentar de nuevo más tarde.</p>
 </div>
 
 ---
