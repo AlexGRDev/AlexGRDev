@@ -31,7 +31,7 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
 ## 🧑‍💻 Contribuciones en GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=radical&cache_seconds=1" alt="Contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=radical" alt="Contribuciones" />
 </div>
 
 ---
