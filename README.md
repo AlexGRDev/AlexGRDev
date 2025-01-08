@@ -32,7 +32,6 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGRDev&theme=radical&cache_seconds=0" alt="Contribuciones" />
-  <p style="color: red;">Si no ves tus contribuciones aquí, podría ser un problema temporal con la API de GitHub o el servicio de estadísticas. Te recomiendo intentar de nuevo más tarde.</p>
 </div>
 
 ---
@@ -48,12 +47,12 @@ Este proyecto es parte del curso de **42 Barcelona**, donde desarrollé habilida
 
 ---
 
-### 2. **Roadmap 2024 [⭐ Dale una estrella](https://github.com/AlexGRDev/roadmap-2024)**
+### 2. **Ejercicios de Logia de Programacion [⭐ Dale una estrella](https://github.com/AlexGRDev/ejercicios)**
 Un **repositorio para gestionar y seguir el progreso** en los proyectos del 2024. Este proyecto permite a los desarrolladores estructurar y organizar sus objetivos anuales, con una planificación clara de las metas. **Tecnologías utilizadas**: Markdown, Git, Gestión de Proyectos.<br>
-![Estrellas](https://img.shields.io/github/stars/AlexGRDev/roadmap-2024?style=social&cache_seconds=1)
-![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/roadmap-2024?style=flat-square&color=brightgreen&cache_seconds=1)
-![Forks](https://img.shields.io/github/forks/AlexGRDev/roadmap-2024?style=flat-square&color=blue&cache_seconds=1)
-![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/roadmap-2024?style=flat-square&cache_seconds=1)
+![Estrellas](https://img.shields.io/github/stars/AlexGRDev/ejercicios?style=social&cache_seconds=1)
+![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/ejercicios?style=flat-square&color=brightgreen&cache_seconds=1)
+![Forks](https://img.shields.io/github/forks/AlexGRDev/ejercicios?style=flat-square&color=blue&cache_seconds=1)
+![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/ejercicios?style=flat-square&cache_seconds=1)
 
 ---
 
