@@ -47,15 +47,6 @@ Este proyecto es parte del curso de **42 Barcelona**, donde desarrollé habilida
 
 ---
 
-### 2. **Roadmap 2024 [⭐ Dale una estrella](https://github.com/AlexGRDev/roadmap-2024)**
-Un **repositorio para gestionar y seguir el progreso** en los proyectos del 2024. Este proyecto permite a los desarrolladores estructurar y organizar sus objetivos anuales, con una planificación clara de las metas. **Tecnologías utilizadas**: Markdown, Git, Gestión de Proyectos.<br>
-![Estrellas](https://img.shields.io/github/stars/AlexGRDev/roadmap-2024?style=social&cache_seconds=1)
-![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/roadmap-2024?style=flat-square&color=brightgreen&cache_seconds=1)
-![Forks](https://img.shields.io/github/forks/AlexGRDev/roadmap-2024?style=flat-square&color=blue&cache_seconds=1)
-![Colaboradores](https://img.shields.io/github/contributors/AlexGRDev/roadmap-2024?style=flat-square&cache_seconds=1)
-
----
-
 ## 📬 Contáctame
 
 - 📧 **Email**: [alexgaro2015@gmail.com](mailto:alexgaro2015@gmail.com)
