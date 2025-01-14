@@ -38,7 +38,7 @@ Este proyecto es parte del curso de **42 Barcelona**, donde desarrollé habilida
 
 ---
 
-### 2. **Ejercicios de Logia de Programacion [⭐ Dale una estrella](https://github.com/AlexGRDev/ejercicios)**
+### 2. **Ejercicios de Logica de Programacion [⭐ Dale una estrella](https://github.com/AlexGRDev/ejercicios)**
 Un **repositorio para gestionar y seguir el progreso** en los proyectos del 2024. Este proyecto permite a los desarrolladores estructurar y organizar sus objetivos anuales, con una planificación clara de las metas. **Tecnologías utilizadas**: Markdown, Git, Gestión de Proyectos.<br>
 ![Estrellas](https://img.shields.io/github/stars/AlexGRDev/ejercicios?style=social&cache_seconds=1)
 ![Estado del proyecto](https://img.shields.io/github/last-commit/AlexGRDev/ejercicios?style=flat-square&color=brightgreen&cache_seconds=1)
