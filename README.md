@@ -26,9 +26,6 @@ Soy un **Técnico de Sistemas Informáticos** apasionado por la **Ciberseguridad
   </table>
 </div>
 
----
-
----
 
 ## Proyectos Destacados
 
