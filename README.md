@@ -23,8 +23,14 @@ I'm a developer and cybersecurity enthusiast, passionate about automation, envir
 ---
 
 ## 📌 Repos Destacados / Featured Repos
-
 [![Backup Configs](https://github-readme-stats.vercel.app/api/pin/?username=AlexGRDev&repo=backup-configs&theme=radical)](https://github.com/AlexGRDev/backup-configs)
+
+---
+
+## 🗂️ Últimos repos actualizados / Latest Updated Repos
+<!--START_SECTION:repos-->
+Cargando…
+<!--END_SECTION:repos-->
 
 ---
 
@@ -33,6 +39,13 @@ I'm a developer and cybersecurity enthusiast, passionate about automation, envir
   <img src="https://github-readme-stats.vercel.app/api?username=AlexGRDev&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGRDev&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
+---
+
+## 🏃 Última actividad pública / Recent Activity
+<!--START_SECTION:activity-->
+Cargando…
+<!--END_SECTION:activity-->
 
 ---
 
@@ -48,8 +61,6 @@ I'm a developer and cybersecurity enthusiast, passionate about automation, envir
 - **Email:** tu-email@example.com
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexGRDev&color=red&style=flat-square" alt="Profile views" />
-</p>:
+</p>
