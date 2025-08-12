@@ -70,7 +70,7 @@ Cargando…
 
 | Dojo | Hacking | Módulos | Retos |
 |---|---:|---:|---:|
-| Getting Started | 21 | 2 | 11 |
+| Getting Started | Using the Dojo | 11 | (https://pwn.college/welcome/welcome/) |
 | Linux Luminarium | 77 | 16 | 126 |
 | Computing 101 | 39 | 7 | 69 |
 | Playing With Programs | 21 | 4 | 116 |
