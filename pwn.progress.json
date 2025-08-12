@@ -1,0 +1,12 @@
+{
+  "dojos": [
+    {"name": "Getting Started",        "hacking": 21, "modules": 2,  "challenges": 11},
+    {"name": "Linux Luminarium",       "hacking": 77, "modules": 16, "challenges": 126},
+    {"name": "Computing 101",          "hacking": 39, "modules": 7,  "challenges": 69},
+    {"name": "Playing With Programs",  "hacking": 21, "modules": 4,  "challenges": 116},
+    {"name": "Intro to Cybersecurity", "hacking": 79, "modules": 7,  "challenges": 182},
+    {"name": "Program Security",       "hacking": 33, "modules": 6,  "challenges": 161},
+    {"name": "System Security",        "hacking": 13, "modules": 6,  "challenges": 93},
+    {"name": "Software Exploitation",  "hacking": 11, "modules": 6,  "challenges": 103}
+  ]
+}
