@@ -64,3 +64,22 @@ Cargando…
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexGRDev&color=red&style=flat-square" alt="Profile views" />
 </p>
+
+<!-- PWN:START -->
+### 🥷 pwn.college — Progreso
+
+| Dojo | Hacking | Módulos | Retos |
+|---|---:|---:|---:|
+| Getting Started | 21 | 2 | 11 |
+| Linux Luminarium | 77 | 16 | 126 |
+| Computing 101 | 39 | 7 | 69 |
+| Playing With Programs | 21 | 4 | 116 |
+| Intro to Cybersecurity | 79 | 7 | 182 |
+| Program Security | 33 | 6 | 161 |
+| System Security | 13 | 6 | 93 |
+| Software Exploitation | 11 | 6 | 103 |
+
+**Totales:** 🔓 **294 Hacking** · 📚 **54 Módulos** · 🎯 **861 Retos**
+
+_Última actualización automática._
+<!-- PWN:END -->
