@@ -51,7 +51,6 @@ Cargando…
 
 ## 🏆 Logros Técnicos / Technical Achievements
 - 🔐 Retos de **pwn.college** completados.
-- ![Dojo completados](https://img.shields.io/badge/dojos-%5Bdynamic%5D-red)
 - 📜 Certificados en ciberseguridad y scripting.
 - ⚙️ Scripts de automatización para entornos macOS/Linux.
 
