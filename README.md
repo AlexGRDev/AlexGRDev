@@ -25,7 +25,6 @@ I'm a developer and cybersecurity enthusiast, passionate about automation, envir
 ## 📌 Repos Destacados / Featured Repos
 
 [![Backup Configs](https://github-readme-stats.vercel.app/api/pin/?username=AlexGRDev&repo=backup-configs&theme=radical)](https://github.com/AlexGRDev/backup-configs)
-[![Otro Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=AlexGRDev&repo=otro-proyecto&theme=radical)](https://github.com/AlexGRDev/otro-proyecto)
 
 ---
 
