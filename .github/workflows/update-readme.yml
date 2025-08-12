@@ -1,21 +1,17 @@
-name: Update README (dynamic)
+name: Update README (pwn.college)
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"   # cada 6 horas
-  workflow_dispatch:
   push:
-    branches: [ main ]
     paths:
-      - "README.md"
-      - "scripts/**"
-
-permissions:
-  contents: write
+      - "pwn.progress.json"
+      - "scripts/update_pwn_readme.py"
+  workflow_dispatch: {}
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -23,23 +19,17 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install deps
-        run: pip install requests
+      - name: Render pwn.college section
+        run: python scripts/update_pwn_readme.py
 
-      - name: Build README sections
-        env:
-          GH_OWNER: ${{ github.repository_owner }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/build_readme.py
-
-      - name: Commit changes if any
+      - name: Commit & push if changed
         run: |
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name  "ITS ALEXITO Bot"
-            git config user.email "actions@github.com"
-            git add README.md
-            git commit -m "chore(readme): auto-update dynamic sections"
-            git push
-          else
+          if git diff --quiet; then
             echo "No changes."
+          else
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore(readme): refresh pwn.college progress"
+            git push
           fi
