@@ -58,8 +58,8 @@ Cargando…
 
 ## 📫 Contacto / Contact
 - **GitHub:** [github.com/AlexGRDev](https://github.com/AlexGRDev)
-- **Email:** tu-email@example.com
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** alexgaro2015@gmail.com
+- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/alex-garcia-rodriguez-564287208)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlexGRDev&color=red&style=flat-square" alt="Profile views" />
