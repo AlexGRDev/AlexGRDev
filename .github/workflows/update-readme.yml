@@ -1,10 +1,9 @@
-name: Update README (pwn.college)
+name: Update README (Latest Commits)
 
 on:
   push:
     paths:
-      - "pwn.progress.json"
-      - "scripts/update_pwn_readme.py"
+      - "README.md"
   workflow_dispatch: {}
 
 jobs:
@@ -15,21 +14,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.x"
-
-      - name: Render pwn.college section
-        run: python scripts/update_pwn_readme.py
-
-      - name: Commit & push if changed
+      - name: Get latest commits
         run: |
+          echo "## 🗂️ Últimos repos actualizados / Latest Updated Repos" > REPOS.md
+          git log -5 --pretty=format:"- %h - %s (%ci)" >> REPOS.md
+
+      - name: Update README
+        run: |
+          sed -i '/<!--START_SECTION:repos-->/r REPOS.md' README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git diff --quiet; then
             echo "No changes."
           else
-            git config user.name  "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add README.md
-            git commit -m "chore(readme): refresh pwn.college progress"
+            git commit -m "chore(readme): refresh latest commits"
             git push
           fi
