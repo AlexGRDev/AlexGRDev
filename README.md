@@ -27,13 +27,6 @@ I'm a developer and cybersecurity enthusiast, passionate about automation, envir
 
 ---
 
-## 🗂️ Últimos repos actualizados / Latest Updated Repos
-<!--START_SECTION:repos-->
-Cargando…
-<!--END_SECTION:repos-->
-
----
-
 ## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexGRDev&show_icons=true&theme=radical" alt="GitHub Stats" />
