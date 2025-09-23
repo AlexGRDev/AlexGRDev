@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=🚀+Welcome+to+AlexGRDev's+Hub;💻+Automation+%7C+Cybersecurity+%7C+DevOps;⚡+Red+%26+Black+Glitch+Vibes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=🚀+Welcome+to+AlexGRDev's+Hub;💻+Automation+%7C+Cybersecurity+%7C+DevOps"/>
 </p>
 
 ---
