@@ -48,11 +48,11 @@ I'm passionate about **cybersecurity**, **ethical hacking** and **low-level prog
 <h2><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" /> Finish projects </h2>
 
 | RANK                                        | Project                                                    | Overview                                                       | Languages | Score                                                      |
-|--------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|-----------|------------------------------------------------------------=================================|
-| ![R0](https://img.shields.io/badge/R0-%23000000) | [Libft](https://github.com/AlexGRDev/42_Master/tree/main/Rank%200/LibFT)                 | Custom implementation of core C library functions              | C            | ![Score](https://img.shields.io/badge/100/100-%2300FF00)   |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [Printf](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/ft_printf)            | Recreate the printf() function with formatted output handling  | C            | ![Score](https://img.shields.io/badge/100/100-%2300FF00)   |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [Get_next_line](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/get_nex_line)  | Function to read one line at a time from a file descriptor     | C            | ![Score](https://img.shields.io/badge/101/100-%2300FF00)   |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [Bor2beRoot](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/Born2beRoot)      |  asic Linux system administration and securit                  | Linux / Bash | ![Score](https://img.shields.io/badge/100/100-%2300FF00)   |
+|--------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|-----------|------------------------------------------------------------|
+| ![R0](https://img.shields.io/badge/R0-%23000000) | [Libft](https://github.com/AlexGRDev/42_Master/tree/main/Rank%200/LibFT)                 | Custom implementation of core C library functions              | C         | ![Score](https://img.shields.io/badge/100/100-%2300FF00)   |
+| ![R1](https://img.shields.io/badge/R1-%23000000) | [Printf](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/ft_printf)               | Recreate the printf() function with formatted output handling  | C         |  ![Score](https://img.shields.io/badge/100/100-%2300FF00)    |
+| ![R1](https://img.shields.io/badge/R1-%23000000) | [Get_next_line](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/get_nex_line) | Function to read one line at a time from a file descriptor     | C         | ![Score](https://img.shields.io/badge/101/100-%2300FF00)   |
+| ![R1](https://img.shields.io/badge/R1-%23000000) | [Born2BeRoot](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/Born2beRoot) | asic Linux system administration and securit | Linux / Debian |  ![Score](https://img.shields.io/badge/100/100-%2300FF00)
 
 ---
 
