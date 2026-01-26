@@ -53,7 +53,7 @@ I'm passionate about **cybersecurity**, **ethical hacking** and **low-level prog
 | ![R1](https://img.shields.io/badge/R1-%23000000) | [Printf](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/ft_printf)               | Recreate the printf() function with formatted output handling  | C         |  ![Score](https://img.shields.io/badge/100/100-%2300FF00)    |
 | ![R1](https://img.shields.io/badge/R1-%23000000) | [Get_next_line](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/get_nex_line) | Function to read one line at a time from a file descriptor     | C         | ![Score](https://img.shields.io/badge/101/100-%2300FF00)   |
 | ![R1](https://img.shields.io/badge/R1-%23000000) | [Born2BeRoot](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/Born2beRoot) | asic Linux system administration and securit | Linux / Debian |  ![Score](https://img.shields.io/badge/100/100-%2300FF00)
-| [R2](https://img.shields.io/badge/R1-%23000000) | [Push_Swap](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/push_swap) | A C algorithm that sorts numbers using two stacks with the minimum number of operations. | C | ![Socre](https://img.shields.io/badge/In%20Process-%2300FF00)
+| ![R2](https://img.shields.io/badge/R1-%23000000) | [Push_Swap](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/push_swap) | A C algorithm that sorts numbers using two stacks with the minimum number of operations. | C | ![Socre](https://img.shields.io/badge/Progress-In%20Progress-grey)
 
 ---
 
