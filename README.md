@@ -6,7 +6,7 @@
 
 <h1> 
   <img src="https://media4.giphy.com/media/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> 
-  Hi, I'm Alex Garcia 
+  Hi, I'm Alex Garcia Rodriguez
 </h1>
 
 <h2>
