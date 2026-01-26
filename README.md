@@ -53,7 +53,7 @@ I'm passionate about **cybersecurity**, **ethical hacking** and **low-level prog
 | ![R1](https://img.shields.io/badge/R1-%23000000) | [Printf](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/ft_printf)               | Recreate the printf() function with formatted output handling  | C         |  ![Score](https://img.shields.io/badge/100/100-%2300FF00)    |
 | ![R1](https://img.shields.io/badge/R1-%23000000) | [Get_next_line](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/get_nex_line) | Function to read one line at a time from a file descriptor     | C         | ![Score](https://img.shields.io/badge/101/100-%2300FF00)   |
 | ![R1](https://img.shields.io/badge/R1-%23000000) | [Born2BeRoot](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/Born2beRoot) | asic Linux system administration and securit | Linux / Debian |  ![Score](https://img.shields.io/badge/100/100-%2300FF00)
-| ![R2](https://img.shields.io/badge/R1-%23000000) | [Push_Swap](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/push_swap) | A C algorithm that sorts numbers using two stacks with the minimum number of operations. | C | ![Socre](https://img.shields.io/badge/Progress-In%20Progress-grey)
+| ![R2](https://img.shields.io/badge/R1-%23000000) | [Push_Swap](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/push_swap) | A C algorithm that sorts numbers using two stacks with the minimum number of operations. | C | ![Score](https://img.shields.io/badge/Progress-In%20Progress-808080?style=for-the-badge)
 
 ---
 
@@ -61,8 +61,8 @@ I'm passionate about **cybersecurity**, **ethical hacking** and **low-level prog
 <img src="https://komarev.com/ghpvc/?username=AlexGRDev&abbreviated=false&color=ff69b4&style=plastic" width="130" />
 
 <p align="left">
-  <img src="https://github-stats-kappa-swart.vercel.app/api/?username=AlexGRDev&layout=compact&theme=tokyonight&show_icons=true&card_width=300" />
-  <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=AlexGRDev&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=10&card_width=350" />
+<img src="https://github-stats-kappa-swart.vercel.app/api/?username=AlexGRDev&layout=compact&theme=tokyonight&show_icons=true&hide=forks&card_width=300" />
+<img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=AlexGRDev&exclude_repo=github-stats&layout=compact&theme=tokyonight&langs_count=10&hide=forks&card_width=350" />
 </p>
 
 ---
