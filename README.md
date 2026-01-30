@@ -39,8 +39,8 @@ My main interests include cybersecurity, low-level programming, Linux systems, a
   
   <tr align="center">
     <td>
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="55" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" />
+      <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" />
     </td>
     <td>
