@@ -60,6 +60,8 @@ I'm especially interested in cybersecurity, low-level programming and infrastruc
   </tr>
 </table>
 
+<br/>
+
 ---
 
 <h2>
