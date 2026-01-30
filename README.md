@@ -19,7 +19,7 @@
 </h2>
 
 Currently studying at **42 Barcelona** as part of the **Common Core** program.  
-I completed the **42 Piscine** from **July 1–28, 2025**, where I developed strong fundamentals in C, Shell scripting, and algorithmic problem-solving.
+I completed the **42 Piscine** from **July, 2025**, where I developed strong fundamentals in C, Shell scripting, and algorithmic problem-solving.
 
 I also have hands-on experience in **IT Support**, **basic system administration**, **Linux environments**, **network troubleshooting**, and hardware/software maintenance.  
 My main interests include cybersecurity, low-level programming, Linux systems, and infrastructure management.
