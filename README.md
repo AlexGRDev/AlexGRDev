@@ -8,11 +8,6 @@
   <img src="https://media4.giphy.com/media/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> 
   Hi, I'm Alex Garcia Rodriguez
 </h1>
-
-<h3 align="center">
-  Systems & Software Engineering Student — 42 Barcelona (Common Core)
-</h3>
-
 <h2>
   <img src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="45" /> 
   About me
