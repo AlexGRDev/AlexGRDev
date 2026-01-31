@@ -74,7 +74,7 @@ My main interests include cybersecurity, low-level programming, Linux systems, a
 <img src="https://komarev.com/ghpvc/?username=AlexGRDev&abbreviated=false&color=ff69b4&style=plastic" width="130" />
 <p align="left">
 <img src="https://github-stats-kappa-swart.vercel.app/api/?username=AlexGRDev&layout=compact&theme=tokyonight&show_icons=true&hide=forks&count_private=true&card_width=300" />
-<img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=AlexGRDev&layout=compact&theme=tokyonight&hide=forks&exclude_repo=github-stats&card_width=350&langs_count=10" />
+<img src="https://camo.githubusercontent.com/76f50476eda7e2ceb034c28b0b0e2e6e8ca2e5656d86faf76f5db00662c8bf53/68747470733a2f2f6769746875622d73746174732d6b617070612d73776172742e76657263656c2e6170702f6170692f3f757365726e616d653d416c65784752446576266c61796f75743d636f6d70616374267468656d653d746f6b796f6e696768742673686f775f69636f6e733d7472756526686964653d666f726b7326636f756e745f707269766174653d7472756526636172645f77696474683d333030" />
 </p>
 <h2>
   <img src="https://media4.giphy.com/media/LPCbGMd9phguQ8ULbD/giphy.gif" width="45" /> 
