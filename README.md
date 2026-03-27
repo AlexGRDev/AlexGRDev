@@ -1,29 +1,30 @@
 <p align="right">
   <a href="es.README.md">
-    <img src="https://img.shields.io/badge/🌐%20Español-README-green?style=for-the-badge" alt="README Español" />
+    <img src="https://img.shields.io/badge/🌐%20Español-README-green?style=for-the-badge" alt="README en Español" />
   </a>
 </p>
 
-<h1> 
-  <img src="https://media4.giphy.com/media/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" /> 
+<h1>
+  <img src="https://media4.giphy.com/media/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" />
   Hi, I'm Alex Garcia Rodriguez
 </h1>
+
 <h2>
-  <img src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="45" /> 
+  <img src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="45" />
   About me
 </h2>
 
-Currently studying at **42 Barcelona** as part of the **Common Core** program.  
-I completed the **42 Piscine** from **July, 2025**, where I developed strong fundamentals in C, Shell scripting, and algorithmic problem-solving.
+Currently studying at **42 Barcelona** as part of the **Common Core** program.
+I completed the **42 Piscine** in **July 2025**, where I developed strong fundamentals in C, Shell scripting, and algorithmic problem-solving.
 
-I also have hands-on experience in **IT Support**, **basic system administration**, **Linux environments**, **network troubleshooting**, and hardware/software maintenance.  
-My main interests include cybersecurity, low-level programming, Linux systems, and infrastructure management.
-
+I also have hands-on experience in **IT Support**, **basic system administration**, **Linux environments**, **network troubleshooting**, and hardware/software maintenance.
+My main interests include **cybersecurity**, **low-level programming**, **Linux systems**, and **infrastructure management**.
 
 <h2>
-  <img src="https://media1.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif" width="45" /> 
+  <img src="https://media1.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif" width="45" />
   Skills & Tools
 </h2>
+
 <table>
   <tr>
     <th align="center">Languages</th>
@@ -31,7 +32,6 @@ My main interests include cybersecurity, low-level programming, Linux systems, a
     <th align="center">Shell</th>
     <th align="center">Development Tools</th>
   </tr>
-  
   <tr align="center">
     <td>
       <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="55"/>
@@ -55,19 +55,29 @@ My main interests include cybersecurity, low-level programming, Linux systems, a
 </table>
 
 <h2>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" /> 
-  Finish projects
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" />
+  42 Barcelona — Projects
 </h2>
 
-| RANK | Project | Overview | Languages | Score |
-|------|---------|----------|-----------|--------|
-| ![R0](https://img.shields.io/badge/R0-%23000000) | [Libft](https://github.com/AlexGRDev/42_Master/tree/main/Rank%200/LibFT) | Custom implementation of core C library functions | C | ![Score](https://img.shields.io/badge/100/100-%2300FF00) |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [Printf](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/ft_printf) | Recreate the printf() function | C | ![Score](https://img.shields.io/badge/100/100-%2300FF00) |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [Get_next_line](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/get_nex_line) | Read one line at a time from a file descriptor | C | ![Score](https://img.shields.io/badge/101/100-%2300FF00) |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [Born2BeRoot](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/Born2beRoot) | Basic Linux administration and security | Shell / Debian | ![Score](https://img.shields.io/badge/100/100-%2300FF00) |
-| ![R2](https://img.shields.io/badge/R2-%23000000) | [Push_Swap](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/push_swap) | A C algorithm that sorts numbers using two stacks with minimal operations | C | ![Score](https://img.shields.io/badge/100/100-%2300FF00)  |
+<h3>Completed</h3>
+
+| Rank | Project | Overview | Language | Score |
+|:----:|---------|----------|:--------:|:-----:|
+| ![R0](https://img.shields.io/badge/R0-%23000000) | [Libft](https://github.com/AlexGRDev/42_Master/tree/main/Rank%200/LibFT) | Custom implementation of core C library functions | C | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) |
+| ![R1](https://img.shields.io/badge/R1-%23000000) | [ft_printf](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/ft_printf) | Recreate the `printf()` function | C | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) |
+| ![R1](https://img.shields.io/badge/R1-%23000000) | [Get_next_line](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/get_nex_line) | Read one line at a time from a file descriptor | C | ![Score](https://img.shields.io/badge/101%2F100-brightgreen) |
+| ![R1](https://img.shields.io/badge/R1-%23000000) | [Born2BeRoot](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/Born2beRoot) | Linux server administration and hardening | Shell / Debian | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) |
+| ![R2](https://img.shields.io/badge/R2-%23000000) | [Push_Swap](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/push_swap) | Sort integers using two stacks with minimal operations | C | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) |
+
+<h3>In progress</h3>
+
+| Rank | Project | Overview | Language |
+|:----:|---------|----------|:--------:|
+| ![R2](https://img.shields.io/badge/R2-%23000000) | Pipex | Reproduce shell pipe behaviour in C | C |
+| ![R2](https://img.shields.io/badge/R2-%23000000) | FdF | Wireframe 3D map renderer using MiniLibX | C |
+
 <h2>
-  <img src="https://media1.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="45" /> 
+  <img src="https://media1.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="45" />
   GitHub Stats
 </h2>
 
@@ -76,9 +86,13 @@ My main interests include cybersecurity, low-level programming, Linux systems, a
 <img src="https://github-stats-kappa-swart.vercel.app/api/?username=alexgrdev&layout=compact&theme=tokyonight&show_icons=true&card_width=300" />
 <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=alexgrdev&exclude_repo=github-stats,FlexFox&layout=compact&theme=tokyonight&langs_count=10&card_width=350&update=final"/>
 </p>
+
 <h2>
-  <img src="https://media4.giphy.com/media/LPCbGMd9phguQ8ULbD/giphy.gif" width="45" /> 
+  <img src="https://media4.giphy.com/media/LPCbGMd9phguQ8ULbD/giphy.gif" width="45" />
   Quote That Inspires Me
 </h2>
 
-> “There are no shortcuts to any place worth going.” — *Beverly Sills*
+> "There are no shortcuts to any place worth going." — *Beverly Sills*
+
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
