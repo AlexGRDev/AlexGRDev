@@ -95,4 +95,5 @@ My main interests include **cybersecurity**, **low-level programming**, **Linux 
 > "There are no shortcuts to any place worth going." — *Beverly Sills*
 
 <!--START_SECTION:repos-->
-<!--END_SECTION:repos-->
+## 🗂️ Últimos repos actualizados / Latest Updated Repos
+- 9c79026 - docs(readme): add Spanish version and improve structure (2026-03-27 09:02:13 +0100)<!--END_SECTION:repos-->
