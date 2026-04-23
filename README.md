@@ -4,96 +4,124 @@
   </a>
 </p>
 
-<h1>
-  <img src="https://media4.giphy.com/media/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" />
-  Hi, I'm Alex Garcia Rodriguez
-</h1>
+<h1>Hi, I'm Alex García Rodríguez 👋</h1>
 
-<h2>
-  <img src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="45" />
-  About me
-</h2>
+<p>
+  <b>Systems & Security Developer</b> based in Barcelona 🇪🇸<br>
+  <i>Building at the intersection of low-level programming, 
+  web security & infrastructure.</i>
+</p>
 
-Currently studying at **42 Barcelona** as part of the **Common Core** program.
-I completed the **42 Piscine** in **July 2025**, where I developed strong fundamentals in C, Shell scripting, and algorithmic problem-solving.
+<p>
+  🎓 <b>ASIX</b> @ Ilerna · <b>42 Barcelona</b> Common Core<br>
+  🔬 TFG: Browser fingerprinting study (54 participants)<br>
+  🔧 C · Python · TypeScript · Linux · Cloudflare · Docker<br>
+  💼 Open to: <b>Junior Dev</b> · <b>Security Intern</b> · <b>SRE Intern</b>
+</p>
 
-I also have hands-on experience in **IT Support**, **basic system administration**, **Linux environments**, **network troubleshooting**, and hardware/software maintenance.
-My main interests include **cybersecurity**, **low-level programming**, **Linux systems**, and **infrastructure management**.
+<p>
+  <a href="https://www.linkedin.com/in/alex-garcia-rodriguez-564287208/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_EMAIL@dominio.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<h2>
-  <img src="https://media1.giphy.com/media/6KirhLJyR7oMcwgJQk/giphy.gif" width="45" />
-  Skills & Tools
-</h2>
+---
+
+## 🚀 Featured Projects
+
+### 🔐 TFG — "El Precio de un Clic": Browser Fingerprinting Study
+Empirical study on web tracking with **54 real participants**. 
+Full-stack: Cloudflare Workers edge layer → FastAPI backend → 
+SQLite persistence. Dockerized, CI/CD pipeline, security audit 
+(15 vulnerabilities fixed).  
+**Stack:** Cloudflare Workers · Python · FastAPI · SQLite · Docker · JS  
+🔗 [Repository](https://github.com/AlexGRDev/TFG_seguridadweb)
+
+### 🛒 Auriculares Pro — Serverless E-commerce
+Production e-commerce running on Cloudflare Workers. Stripe 
+payments, anti-carding, automated dropshipping fulfillment via 
+CJdropshipping API, real-time Telegram notifications.  
+**Stack:** Cloudflare Workers · Stripe API · Telegram Bot API  
+🔗 [auriculares-pro.es](https://auriculares-pro.es)
+
+### 🔥 Cortafuego.sh — Linux Firewall Automation
+8-stage iptables automation script with Docker wrapper 
+(`--privileged --network host`). Clean ASCII, production-ready.  
+**Stack:** Bash · iptables · Docker  
+🔗 [Repository](#)
+
+---
+
+## 🎓 42 Barcelona — Projects
+
+### ✅ Completed
+
+| Rank | Project | Overview | Language | Score |
+|:----:|---------|----------|:--------:|:-----:|
+| ![R0](https://img.shields.io/badge/R0-%23000000) | [Libft](https://github.com/AlexGRDev/42_Master/tree/main/Rank%200/LibFT) | Custom C standard library | C | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
+| ![R1](https://img.shields.io/badge/R1-%23000000) | [ft_printf](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/ft_printf) | Recreation of `printf()` | C | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
+| ![R1](https://img.shields.io/badge/R1-%23000000) | [get_next_line](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/get_nex_line) | Read line by line from fd | C | ![](https://img.shields.io/badge/101%2F100-brightgreen) |
+| ![R1](https://img.shields.io/badge/R1-%23000000) | [Born2beRoot](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/Born2beRoot) | Linux server hardening | Shell / Debian | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
+| ![R2](https://img.shields.io/badge/R2-%23000000) | [push_swap](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/push_swap) | Sort with two stacks, minimal ops | C | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
+
+### 🔄 In Progress
+
+| Rank | Project | Overview | Language |
+|:----:|---------|----------|:--------:|
+| ![R2](https://img.shields.io/badge/R2-%23000000) | Pipex | Shell pipe replication in C | C |
+| ![R2](https://img.shields.io/badge/R2-%23000000) | FdF | 3D wireframe renderer (MiniLibX) | C |
+
+---
+
+## 🛠️ Stack
 
 <table>
   <tr>
     <th align="center">Languages</th>
-    <th align="center">OS</th>
-    <th align="center">Shell</th>
-    <th align="center">Development Tools</th>
+    <th align="center">Systems</th>
+    <th align="center">Backend & Cloud</th>
+    <th align="center">Tools</th>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" />
+      <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="55"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg" width="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" width="60"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
     </td>
   </tr>
 </table>
 
-<h2>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="35" />
-  42 Barcelona — Projects
-</h2>
+---
 
-<h3>Completed</h3>
+## 📊 GitHub Stats
 
-| Rank | Project | Overview | Language | Score |
-|:----:|---------|----------|:--------:|:-----:|
-| ![R0](https://img.shields.io/badge/R0-%23000000) | [Libft](https://github.com/AlexGRDev/42_Master/tree/main/Rank%200/LibFT) | Custom implementation of core C library functions | C | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [ft_printf](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/ft_printf) | Recreate the `printf()` function | C | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [Get_next_line](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/get_nex_line) | Read one line at a time from a file descriptor | C | ![Score](https://img.shields.io/badge/101%2F100-brightgreen) |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [Born2BeRoot](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/Born2beRoot) | Linux server administration and hardening | Shell / Debian | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) |
-| ![R2](https://img.shields.io/badge/R2-%23000000) | [Push_Swap](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/push_swap) | Sort integers using two stacks with minimal operations | C | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) |
-
-<h3>In progress</h3>
-
-| Rank | Project | Overview | Language |
-|:----:|---------|----------|:--------:|
-| ![R2](https://img.shields.io/badge/R2-%23000000) | Pipex | Reproduce shell pipe behaviour in C | C |
-| ![R2](https://img.shields.io/badge/R2-%23000000) | FdF | Wireframe 3D map renderer using MiniLibX | C |
-
-<h2>
-  <img src="https://media1.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="45" />
-  GitHub Stats
-</h2>
-
-<img src="https://komarev.com/ghpvc/?username=AlexGRDev&abbreviated=false&color=ff69b4&style=plastic" width="130" />
 <p align="left">
-<img src="https://github-stats-kappa-swart.vercel.app/api/?username=alexgrdev&layout=compact&theme=tokyonight&show_icons=true&card_width=300" />
-<img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=alexgrdev&exclude_repo=github-stats,FlexFox&layout=compact&theme=tokyonight&langs_count=10&card_width=350&update=final"/>
+  <img src="https://github-stats-kappa-swart.vercel.app/api/?username=alexgrdev&layout=compact&theme=tokyonight&show_icons=true&card_width=300" />
+  <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=alexgrdev&exclude_repo=github-stats,FlexFox&layout=compact&theme=tokyonight&langs_count=10&card_width=350"/>
 </p>
 
-<h2>
-  <img src="https://media4.giphy.com/media/LPCbGMd9phguQ8ULbD/giphy.gif" width="45" />
-  Quote That Inspires Me
-</h2>
-
-> "There are no shortcuts to any place worth going." — *Beverly Sills*
+---
 
 <!--START_SECTION:repos-->
-## 🗂️ Últimos repos actualizados / Latest Updated Repos
-- 9c79026 - docs(readme): add Spanish version and improve structure (2026-03-27 09:02:13 +0100)<!--END_SECTION:repos-->
+## 🗂️ Latest Updated Repos
+- 9c79026 - docs(readme): add Spanish version and improve structure (2026-03-27)
+<!--END_SECTION:repos-->
