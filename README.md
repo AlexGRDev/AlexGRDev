@@ -122,6 +122,7 @@ CJdropshipping API, real-time Telegram notifications.
 ---
 
 <!--START_SECTION:repos-->
-## 🗂️ Latest Updated Repos
+## 🗂️ Últimos repos actualizados / Latest Updated Repos
+- 880610f - Revise README with new personal and project information (2026-04-23 08:52:35 +0200)## 🗂️ Latest Updated Repos
 - 9c79026 - docs(readme): add Spanish version and improve structure (2026-03-27)
 <!--END_SECTION:repos-->
