@@ -7,7 +7,7 @@
 <h1>Hi, I'm Alex García Rodríguez 👋</h1>
 
 <p>
-  <b>Systems & Security Developer</b> based in Barcelona 🇪🇸<br>
+  <b>Systems & Security Developer | ASIX @ Ilerna · 42 Higher Education | C | Python | Linux/Windows | IOS/mac<br>
   <i>Building at the intersection of low-level programming, 
   web security & infrastructure.</i>
 </p>
