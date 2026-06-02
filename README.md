@@ -68,7 +68,7 @@ CJdropshipping API, real-time Telegram notifications.
 | ![R2](https://img.shields.io/badge/R2-%23000000) | [push_swap](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/push_swap) | Sort with two stacks, minimal ops | C | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
 | ![R2](https://img.shields.io/badge/R2-%23000000) | [PY00: Growing Code](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/Python/PY00) | Python Fundamentals Through Garden Data | Python | ![](https://img.shields.io/badge/1002F100-brightgreen) |
 | ![R2](https://img.shields.io/badge/R2-%23000000) | [PY01: Code Cultivation](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/Python/PY01) | Object-Oriented Garden Systems | Python | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
-| ![R2](https://img.shields.io/badge/R2-%23000000) | [PY02: Garden Guardian](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/Python/PY02) | Data Engineering for Smart Agriculture | Python | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
+| ![R2](https://img.shields.io/badge/R2-%23000000) | [PY02: Garden Guardian](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/Python/PY02) | Data Engineering for Smart Agriculture | Python |  ![](https://img.shields.io/badge/100%2F100-brightgreen) |
 | ![R2](https://img.shields.io/badge/R2-%23000000) | [PY03: Data Quest](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/Python/PY03) | Mastering Python Collections | Python | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
 
 ### 🔄 In Progress
