@@ -28,57 +28,36 @@ Skills & Tools
 </h2>
 
 <table>
-
 <tr>
-
 <th align="center">Languages</th>
 <th align="center">Operating Systems</th>
 <th align="center">Research</th>
-<th align="center">Development Tools</th>
-
+<th align="center">Research Toolchain</th>
 </tr>
-
 <tr align="center">
-
 <td>
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60"/>
-
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="65" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" alt="Python"/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="65" alt="Bash"/>
 </td>
-
 <td>
-
-<img src="https://cdn.simpleicons.org/linux/000000" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="60"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="65" alt="Apple"/>
 </td>
-
 <td>
-
-ARM64<br>
-Mach-O<br>
-iOS<br>
-macOS
-
+<img src="https://img.shields.io/badge/ARM64-black?style=for-the-badge&logo=arm&logoColor=white" width="65" alt="ARM64"/>
+<img src="https://img.shields.io/badge/Mach--O-555555?style=for-the-badge&logo=apple&logoColor=white" width="65" alt="Mach-O"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" width="65" alt="IOS"/>
+<img src="https://img.shields.io/badge/macOS-333333?style=for-the-badge&logo=apple&logoColor=white" width="65" alt="macOS"/>
 </td>
-
 <td>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
-
-<img src="https://avatars.githubusercontent.com/u/2387206?s=200&v=4" width="60"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="60"/>
-
+<img src="https://img.shields.io/badge/LLDB-Debugger-blue?style=for-the-badge" width="65" alt="LLDB"/>
+<img src="https://img.shields.io/badge/Ghidra-Reverse%20Engineering-red?style=for-the-badge" width="65" alt="Ghidra"/>
+<img src="https://img.shields.io/badge/Frida-Dynamic%20Instrumentation-green?style=for-the-badge" width="65" alt="Frida"/>
+<img src="https://img.shields.io/badge/libimobiledevice-iOS-lightgrey?style=for-the-badge" width="65" alt="libimobiledevice"/>
+<img src="https://img.shields.io/badge/mitmproxy-HTTP%20Proxy-purple?style=for-the-badge"  width="65" alt="mitmproxy"/>
 </td>
-
 </tr>
-
 </table>
 
 ---
