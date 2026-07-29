@@ -1,237 +1,196 @@
 <p align="right">
   <a href="es.README.md">
-    <img src="https://img.shields.io/badge/🌐%20Español-README-green?style=for-the-badge" alt="README en Español"/>
+    <img src="https://img.shields.io/badge/🌐%20Español-README-green?style=for-the-badge" alt="README Español" />
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Alex García Rodríguez 👋</h1>
+<h1>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U1dTlnMG1hbWF0dGNvanQxZ3ptM3p4Mng3eHA0OW9obXVnOXpmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1lFYFYndRlBNjUoE0H/giphy.gif" width="45" />
+  Hi, I'm Alex García Rodríguez
+</h1>
 
-<p align="center">
-<b>Apple Platform Security Research · Low-Level Software · Reverse Engineering</b><br>
-<i>Building tooling for Apple firmware analysis, reverse engineering and systems programming.</i>
-</p>
+<h2>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAzMHRrZGQ4Z2Exd2x1NGp0dGt3aHdkOGk5cTl4dGN2cHRudmVweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="45"/>
+  About Me
+</h2>
 
-<p align="center">
-🎓 ASIX @ Ilerna · 42 Barcelona Common Core<br>
-🍎 Research Focus: iOS · macOS · XNU · Secure Boot · ARM64 · Mach-O<br>
-💻 Languages: C · Python · Bash<br>
-🔬 Currently building <b>AppleSecLab</b>
-</p>
+I'm a Computer Engineering student passionate about understanding how systems work beneath the surface.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alex-garcia-rodriguez-564287208/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+My work focuses on **Apple Platform Security**, **Reverse Engineering**, and **Low-Level Software Development**, where I build tools, document research, and explore the internals of iOS, macOS, and their security architecture.
+
+This GitHub is where I share that journey through open-source projects, research, and everything I learn along the way.
 
 ---
 
-# 👨🏻‍💻 About Me
+<h2>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN0Z3V3eWE1dHRoenN2Y3F6c3ZrZ2w3Y3lrbnRpdm8xbjNndGt1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="45"/>
+Skills & Tools
+</h2>
 
-I'm a low-level software developer interested in understanding how Apple systems work internally.
+<table>
 
-My current work focuses on:
+<tr>
 
-- 🍎 Apple Platform Security
-- 📱 iOS Firmware Analysis
-- 🔍 Reverse Engineering
-- ⚙️ Systems Programming
-- 🧠 ARM64 & Mach-O Internals
-- 🔐 Secure Boot & Activation Flow
-- 🖥️ XNU Internals
+<th align="center">Languages</th>
+<th align="center">Operating Systems</th>
+<th align="center">Research</th>
+<th align="center">Development Tools</th>
 
-I enjoy building tooling that automates firmware acquisition, analysis and reverse engineering workflows.
+</tr>
+
+<tr align="center">
+
+<td>
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60"/>
+
+</td>
+
+<td>
+
+<img src="https://cdn.simpleicons.org/linux/000000" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="60"/>
+
+</td>
+
+<td>
+
+ARM64<br>
+Mach-O<br>
+iOS<br>
+macOS
+
+</td>
+
+<td>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+
+<img src="https://avatars.githubusercontent.com/u/2387206?s=200&v=4" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="60"/>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🔬 Current Research
+<h2>
+🍎 Current Research
+</h2>
 
-Current areas of research:
+I'm currently exploring:
 
-- iOS Firmware
-- Activation Lock
-- Secure Boot Chain
-- MobileActivation
-- lockdownd
-- XNU
-- Mach-O
-- ARM64
+- Apple Platform Security
+- iOS Firmware Analysis
+- Reverse Engineering
+- ARM64 Architecture
+- Mach-O Binaries
+- Secure Boot
 - Apple Private Frameworks
+- Systems Programming in C
 
 ---
 
-# 🚀 Featured Projects
+<h2>
+🚀 Featured Projects
+</h2>
 
-## 🍎 AppleSecLab
+### 🍎 AppleSecLab
 
-> Apple Platform Security Research Laboratory
+Research laboratory focused on Apple platform security.
 
-A modular research environment designed for Apple security research.
-
-Current features:
+Current goals:
 
 - Device profiling
-- IPSW acquisition
+- IPSW management
 - Firmware inventory
-- Research workspaces
-- Static analysis preparation
-- Multi-build organization
+- Static analysis workspace
+- Reverse engineering workflow
 
-**Roadmap**
+Repository:
 
-- Firmware extraction
-- Mach-O inspection
-- Objective-C metadata
-- Dyld Shared Cache analysis
-- Reverse Engineering helpers
-- Diffing between firmware versions
-
-**Stack**
-
-`Bash` • `Python` • `C` • `macOS` • `iOS`
+https://github.com/AlexGRDev/apple-seclab
 
 ---
 
-## 🔐 Browser Fingerprinting Research
+### 🔐 Browser Fingerprinting Research
 
-Final Degree Project focused on browser fingerprinting and web privacy.
+Final Degree Project analysing browser fingerprinting and web privacy.
 
 Highlights:
 
-- 54 real participants
+- 54 participants
 - Cloudflare Workers
-- FastAPI backend
-- Dockerized deployment
+- FastAPI
+- Docker
 - Security audit
-- 15 vulnerabilities identified and fixed
 
-**Stack**
+Repository:
 
-Cloudflare Workers • FastAPI • Python • SQLite • Docker
-
-🔗 https://github.com/AlexGRDev/TFG_seguridadweb
+https://github.com/AlexGRDev/TFG_seguridadweb
 
 ---
 
-## 🔥 42 Barcelona
+### 🎓 42 Barcelona
 
 Collection of projects completed during the 42 Common Core.
 
-Focus areas:
+Main focus:
 
 - Systems Programming
-- Algorithms
 - Unix
-- Networking
+- Algorithms
 - Memory Management
-- Low-Level Development
+- Networking
 
-🔗 https://github.com/AlexGRDev/42_Master
+Repository:
 
----
-
-# 🎓 42 Barcelona Progress
-
-| Rank | Project | Language | Score |
-|:---:|-----------|:-------:|:----:|
-| R0 | Libft | C | 100 |
-| R1 | ft_printf | C | 100 |
-| R1 | get_next_line | C | 101 |
-| R1 | Born2beroot | Linux | 100 |
-| R2 | push_swap | C | 100 |
-| R2 | PY00 | Python | 100 |
-| R2 | PY01 | Python | 87 |
-| R2 | PY02 | Python | 100 |
-| R2 | PY03 | Python | 100 |
+https://github.com/AlexGRDev/42_Master
 
 ---
 
-# 📚 Currently Learning
+<h2>
+📚 Currently Learning
+</h2>
 
 - pwn.college
-- 42 Barcelona
 - ARM64 Assembly
-- Mach-O Format
-- iOS Internals
 - Reverse Engineering
-- XNU
-- Secure Boot
 - Apple Platform Security
+- Mach-O
+- XNU Internals
+- Secure Boot
 
 ---
 
-# 🛠 Tech Stack
+<h2>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajgyZXczNzNxenh2MHF5cXpvenY0YTJjaDc4ZzdhY2R6a2szNXFtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jUQHpQ3UjFBfRlQekP/giphy.gif" width="45"/>
+GitHub Stats
+</h2>
 
-## Languages
+<img src="https://komarev.com/ghpvc/?username=AlexGRDev&abbreviated=false&color=ff69b4&style=plastic" width="130"/>
 
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+<p align="left">
+  <img src="https://github-stats-kappa-swart.vercel.app/api/?username=alexgrdev&layout=compact&theme=tokyonight&show_icons=true&card_width=300"/>
+  <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=alexgrdev&exclude_repo=github-stats,FlexFox&layout=compact&theme=tokyonight&langs_count=10&card_width=350&update=final"/>
 </p>
 
 ---
 
-## Operating Systems
+<h2>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMyeGE0NjJlb2MzcGx6NHB5cjZwODVjYzlndmRyODJyaGNsY2kxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LPCbGMd9phguQ8ULbD/giphy.gif" width="45"/>
+Current Goal
+</h2>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-</p>
-
----
-
-## Reverse Engineering & Security
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="45"/>
-</p>
-
-**Daily tools**
-
-- Ghidra
-- LLDB
-- Git
-- Bash
-- Docker
-- Homebrew
+> Build open tooling that makes Apple firmware research more accessible.
 
 ---
-
-# 🎯 Current Goals
-
-- Build a complete Apple firmware research laboratory
-- Master ARM64 reverse engineering
-- Study XNU internals
-- Research Secure Boot and Activation Lock architecture
-- Contribute to the Apple security research community
-
----
-
-# 📊 GitHub Stats
-
-<p>
-<img src="https://github-stats-kappa-swart.vercel.app/api/?username=alexgrdev&theme=tokyonight&show_icons=true"/>
-<img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=alexgrdev&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<!--START_SECTION:repos-->
-## 🗂️ Últimos repos actualizados / Latest Updated Repos
-- a1020e1 - Update README.md (2026-07-29 08:49:16 +0200)
-## 🗂 Latest Updated Repositories
-
-<!--END_SECTION:repos-->
-
----
-
-<p align="center">
-
-> *"Understanding systems is more valuable than memorizing exploits."*
-
-</p>
