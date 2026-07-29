@@ -159,8 +159,8 @@ GitHub Stats
 <img src="https://komarev.com/ghpvc/?username=AlexGRDev&abbreviated=false&color=ff69b4&style=plastic" width="130"/>
 
 <p align="left">
-  <img src="https://github-stats-kappa-swart.vercel.app/api/?username=alexgrdev&layout=compact&theme=tokyonight&show_icons=true&card_width=300"/>
-  <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=alexgrdev&exclude_repo=github-stats,FlexFox&layout=compact&theme=tokyonight&langs_count=10&card_width=350&update=final"/>
+  <img src="https://github-stats-kappa-swart.vercel.app/api/?username=AlexGRDev&layout=compact&theme=tokyonight&show_icons=true&card_width=300" />
+  <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=AlexGRDev&exclude_repo=github-stats,FlexFox&layout=compact&theme=tokyonight&langs_count=10&card_width=350&update=final" />
 </p>
 
 ---
