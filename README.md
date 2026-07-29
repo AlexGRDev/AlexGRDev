@@ -1,135 +1,236 @@
 <p align="right">
   <a href="es.README.md">
-    <img src="https://img.shields.io/badge/🌐%20Español-README-green?style=for-the-badge" alt="README en Español" />
+    <img src="https://img.shields.io/badge/🌐%20Español-README-green?style=for-the-badge" alt="README en Español"/>
   </a>
 </p>
 
-<h1>Hi, I'm Alex García Rodríguez 👋</h1>
+<h1 align="center">Hi, I'm Alex García Rodríguez 👋</h1>
 
-<p>
-  <b>Systems & Security Developer | ASIX @ Ilerna · 42 Higher Education | C | Python | Linux/Windows | IOS/mac<br>
-  <i>Building at the intersection of low-level programming, 
-  web security & infrastructure.</i>
+<p align="center">
+<b>Apple Platform Security Research · Low-Level Software · Reverse Engineering</b><br>
+<i>Building tooling for Apple firmware analysis, reverse engineering and systems programming.</i>
 </p>
 
-<p>
-  🎓 <b>ASIX</b> @ Ilerna · <b>42 Barcelona</b> Common Core<br>
-  🔬 TFG: Browser fingerprinting study (54 participants)<br>
-  🔧 C · Python · TypeScript · Linux · Cloudflare · Docker<br>
-  💼 Open to: <b>Junior Dev</b> · <b>Security Intern</b> · <b>SRE Intern</b>
+<p align="center">
+🎓 ASIX @ Ilerna · 42 Barcelona Common Core<br>
+🍎 Research Focus: iOS · macOS · XNU · Secure Boot · ARM64 · Mach-O<br>
+💻 Languages: C · Python · Bash<br>
+🔬 Currently building <b>AppleSecLab</b>
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/alex-garcia-rodriguez-564287208/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL@dominio.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 👨🏻‍💻 About Me
 
-### 🔐 TFG — "El Precio de un Clic": Browser Fingerprinting Study
-Empirical study on web tracking with **54 real participants**. 
-Full-stack: Cloudflare Workers edge layer → FastAPI backend → 
-SQLite persistence. Dockerized, CI/CD pipeline, security audit 
-(15 vulnerabilities fixed).  
-**Stack:** Cloudflare Workers · Python · FastAPI · SQLite · Docker · JS  
-🔗 [Repository](https://github.com/AlexGRDev/TFG_seguridadweb)
+I'm a low-level software developer interested in understanding how Apple systems work internally.
 
-### 🛒 Auriculares Pro — Serverless E-commerce
-Production e-commerce running on Cloudflare Workers. Stripe 
-payments, anti-carding, automated dropshipping fulfillment via 
-CJdropshipping API, real-time Telegram notifications.  
-**Stack:** Cloudflare Workers · Stripe API · Telegram Bot API  
-🔗 [auriculares-pro.es](https://auriculares-pro.es)
+My current work focuses on:
 
-### 🔥 Cortafuego.sh — Linux Firewall Automation
-8-stage iptables automation script with Docker wrapper 
-(`--privileged --network host`). Clean ASCII, production-ready.  
-**Stack:** Bash · iptables · Docker  
-🔗 [Repository](#)
+- 🍎 Apple Platform Security
+- 📱 iOS Firmware Analysis
+- 🔍 Reverse Engineering
+- ⚙️ Systems Programming
+- 🧠 ARM64 & Mach-O Internals
+- 🔐 Secure Boot & Activation Flow
+- 🖥️ XNU Internals
+
+I enjoy building tooling that automates firmware acquisition, analysis and reverse engineering workflows.
 
 ---
 
-## 🎓 42 Barcelona — Projects
+# 🔬 Current Research
 
-### ✅ Completed
+Current areas of research:
 
-| Rank | Project | Overview | Language | Score |
-|:----:|---------|----------|:--------:|:-----:|
-| ![R0](https://img.shields.io/badge/R0-%23000000) | [Libft](https://github.com/AlexGRDev/42_Master/tree/main/Rank%200/LibFT) | Custom C standard library | C | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [ft_printf](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/ft_printf) | Recreation of `printf()` | C | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [get_next_line](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/get_nex_line) | Read line by line from fd | C | ![](https://img.shields.io/badge/101%2F100-brightgreen) |
-| ![R1](https://img.shields.io/badge/R1-%23000000) | [Born2beRoot](https://github.com/AlexGRDev/42_Master/tree/main/Rank%201/Born2beRoot) | Linux server hardening | Shell / Debian | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
-| ![R2](https://img.shields.io/badge/R2-%23000000) | [push_swap](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/push_swap) | Sort with two stacks, minimal ops | C | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
-| ![R2](https://img.shields.io/badge/R2-%23000000) | [PY00: Growing Code](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/Python/PY00) | Python Fundamentals Through Garden Data | Python | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
-| ![R2](https://img.shields.io/badge/R2-%23000000) | [PY01: Code Cultivation](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/Python/PY01) | Object-Oriented Garden Systems | Python | ![](https://img.shields.io/badge/87%2F100-brightgreen) |
-| ![R2](https://img.shields.io/badge/R2-%23000000) | [PY02: Garden Guardian](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/Python/PY02) | Data Engineering for Smart Agriculture | Python |  ![](https://img.shields.io/badge/100%2F100-brightgreen) |
-| ![R2](https://img.shields.io/badge/R2-%23000000) | [PY03: Data Quest](https://github.com/AlexGRDev/42_Master/tree/main/Rank%202/Python/PY03) | Mastering Python Collections | Python | ![](https://img.shields.io/badge/100%2F100-brightgreen) |
-
-### 🔄 In Progress
-
-
+- iOS Firmware
+- Activation Lock
+- Secure Boot Chain
+- MobileActivation
+- lockdownd
+- XNU
+- Mach-O
+- ARM64
+- Apple Private Frameworks
 
 ---
 
-## 🛠️ Stack
+# 🚀 Featured Projects
 
-<table>
-  <tr>
-    <th align="center">Languages</th>
-    <th align="center">Systems</th>
-    <th align="center">Backend & Cloud</th>
-    <th align="center">Tools</th>
-  </tr>
-  <tr align="center">
-    <td>
-      <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" />
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-    </td>
-  </tr>
-</table>
+## 🍎 AppleSecLab
+
+> Apple Platform Security Research Laboratory
+
+A modular research environment designed for Apple security research.
+
+Current features:
+
+- Device profiling
+- IPSW acquisition
+- Firmware inventory
+- Research workspaces
+- Static analysis preparation
+- Multi-build organization
+
+**Roadmap**
+
+- Firmware extraction
+- Mach-O inspection
+- Objective-C metadata
+- Dyld Shared Cache analysis
+- Reverse Engineering helpers
+- Diffing between firmware versions
+
+**Stack**
+
+`Bash` • `Python` • `C` • `macOS` • `iOS`
 
 ---
 
-## 📊 GitHub Stats
+## 🔐 Browser Fingerprinting Research
 
-<p align="left">
-  <img src="https://github-stats-kappa-swart.vercel.app/api/?username=alexgrdev&layout=compact&theme=tokyonight&show_icons=true&card_width=300" />
-  <img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=alexgrdev&exclude_repo=github-stats,FlexFox&layout=compact&theme=tokyonight&langs_count=10&card_width=350"/>
+Final Degree Project focused on browser fingerprinting and web privacy.
+
+Highlights:
+
+- 54 real participants
+- Cloudflare Workers
+- FastAPI backend
+- Dockerized deployment
+- Security audit
+- 15 vulnerabilities identified and fixed
+
+**Stack**
+
+Cloudflare Workers • FastAPI • Python • SQLite • Docker
+
+🔗 https://github.com/AlexGRDev/TFG_seguridadweb
+
+---
+
+## 🔥 42 Barcelona
+
+Collection of projects completed during the 42 Common Core.
+
+Focus areas:
+
+- Systems Programming
+- Algorithms
+- Unix
+- Networking
+- Memory Management
+- Low-Level Development
+
+🔗 https://github.com/AlexGRDev/42_Master
+
+---
+
+# 🎓 42 Barcelona Progress
+
+| Rank | Project | Language | Score |
+|:---:|-----------|:-------:|:----:|
+| R0 | Libft | C | 100 |
+| R1 | ft_printf | C | 100 |
+| R1 | get_next_line | C | 101 |
+| R1 | Born2beroot | Linux | 100 |
+| R2 | push_swap | C | 100 |
+| R2 | PY00 | Python | 100 |
+| R2 | PY01 | Python | 87 |
+| R2 | PY02 | Python | 100 |
+| R2 | PY03 | Python | 100 |
+
+---
+
+# 📚 Currently Learning
+
+- pwn.college
+- 42 Barcelona
+- ARM64 Assembly
+- Mach-O Format
+- iOS Internals
+- Reverse Engineering
+- XNU
+- Secure Boot
+- Apple Platform Security
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+</p>
+
+---
+
+## Operating Systems
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+</p>
+
+---
+
+## Reverse Engineering & Security
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="45"/>
+</p>
+
+**Daily tools**
+
+- Ghidra
+- LLDB
+- Git
+- Bash
+- Docker
+- Homebrew
+
+---
+
+# 🎯 Current Goals
+
+- Build a complete Apple firmware research laboratory
+- Master ARM64 reverse engineering
+- Study XNU internals
+- Research Secure Boot and Activation Lock architecture
+- Contribute to the Apple security research community
+
+---
+
+# 📊 GitHub Stats
+
+<p>
+<img src="https://github-stats-kappa-swart.vercel.app/api/?username=alexgrdev&theme=tokyonight&show_icons=true"/>
+<img src="https://github-stats-kappa-swart.vercel.app/api/top-langs?username=alexgrdev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 <!--START_SECTION:repos-->
-## 🗂️ Últimos repos actualizados / Latest Updated Repos
-- 0bc4d56 - Update score for PY01: Code Cultivation project (2026-06-02 08:48:45 +0200)## 🗂️ Últimos repos actualizados / Latest Updated Repos
-- 4492880 - Fix badge formatting for PY00 in README.md (2026-06-02 08:47:45 +0200)## 🗂️ Últimos repos actualizados / Latest Updated Repos
-- 4ebfbf6 - Fix badge formatting in README.md (2026-06-02 08:47:13 +0200)## 🗂️ Últimos repos actualizados / Latest Updated Repos
-- bd6cb7a - Update Python project scores in README (2026-06-02 08:46:12 +0200)## 🗂️ Últimos repos actualizados / Latest Updated Repos
-- 2a2471a - Add new Python projects to README (2026-06-02 08:39:42 +0200)## 🗂️ Últimos repos actualizados / Latest Updated Repos
-- c21a9be - Update professional description in README (2026-04-25 18:03:01 +0200)## 🗂️ Últimos repos actualizados / Latest Updated Repos
-- 880610f - Revise README with new personal and project information (2026-04-23 08:52:35 +0200)## 🗂️ Latest Updated Repos
-- 9c79026 - docs(readme): add Spanish version and improve structure (2026-03-27)
+
+## 🗂 Latest Updated Repositories
+
 <!--END_SECTION:repos-->
+
+---
+
+<p align="center">
+
+> *"Understanding systems is more valuable than memorizing exploits."*
+
+</p>
